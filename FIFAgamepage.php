@@ -65,7 +65,7 @@ if (!$conn) {
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('img/피파 대회.jpg') no-repeat center center;
+            background: url('img/피파/피파 대회.jpg') no-repeat center center;
             background-size: cover; /* 이미지가 전체 화면을 덮도록 설정 */
             z-index: -1; /* overlay 내용보다 뒤에 오도록 설정 */
         }
@@ -162,7 +162,7 @@ if (!$conn) {
     <div class="game-container">
         <div class="overlay">
             <div class="overlay-bg"></div> <!-- 배경 이미지 -->
-            <img src="img/피파로고.png" alt="피파 로고">
+            <img src="img/로고/피파로고.png" alt="로고">
             <button onclick="location.href='participant.php'">대회 참가하기</button>
         </div>
     </div>

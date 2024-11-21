@@ -42,3 +42,7 @@
 	at a (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:210559)
 2024-11-21 20:12:32.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
 2024-11-21 20:14:01.287 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:55:03.993 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10274
+2024-11-21 20:55:05.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 296
+2024-11-21 20:55:16.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 296
+2024-11-21 20:55:40.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 298

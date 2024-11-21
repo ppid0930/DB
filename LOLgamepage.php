@@ -66,7 +66,7 @@ if (!$conn) {
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('img/롤 대회.jpg') no-repeat center center;
+            background: url('img/롤/롤 대회.jpg') no-repeat center center;
             background-size: cover; /* 이미지가 전체 화면을 덮도록 설정 */
             z-index: -1; /* overlay 내용보다 뒤에 오도록 설정 */
         }
@@ -138,6 +138,16 @@ if (!$conn) {
             display: block;
         }
 
+        .bracket-image {
+            max-width: 100%; /* 이미지의 최대 너비를 부모 요소에 맞춤 */
+            height: auto; /* 비율 유지 */
+            display: block; /* 중앙 정렬을 위한 블록 요소 */
+            margin: 20px auto; /* 위아래 여백과 중앙 정렬 */
+            border: 1px solid #ddd; /* 테두리 추가 */
+            border-radius: 10px; /* 모서리를 둥글게 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+        }
+
         .join-btn {
             display: block;
             margin: 20px auto;
@@ -161,7 +171,7 @@ if (!$conn) {
     <div class="game-container">
         <div class="overlay">
             <div class="overlay-bg"></div> <!-- 배경 이미지 -->
-            <img src="img/롤 로고.png" alt="롤 로고">
+            <img src="img/로고/롤 로고.png" alt="로고">
             <button onclick="location.href='participant.php'">대회 참가하기</button>
         </div>
     </div>
@@ -197,6 +207,7 @@ if (!$conn) {
         </div>
         <div class="tab-content" id="bracket">
             <p>대진표</p>
+            <img src="img/fhf/롤 대진표.png" alt="대진표" class="bracket-image">
         </div>
         <div class="tab-content" id="prizes">
             <p>상품 및 결과</p>
@@ -207,17 +218,25 @@ if (!$conn) {
 
     <script>
         function showTab(tabId) {
-            // 모든 탭 콘텐츠 숨기기
-            const tabs = document.querySelectorAll('.tab-content');
-            tabs.forEach(tab => tab.style.display = 'none');
+            const contents = document.querySelectorAll(".tab-content");
+            contents.forEach(content => {
+                content.style.display = "none";
+            });
 
-            // 모든 탭 버튼 비활성화
-            const tabButtons = document.querySelectorAll('.tab');
-            tabButtons.forEach(button => button.classList.remove('active'));
+            const activeContent = document.getElementById(tabId);
+            if (activeContent) {
+                activeContent.style.display = "block";
+            }
 
-            // 선택한 탭 활성화
-            document.getElementById(tabId).style.display = 'block';
-            document.querySelector(`.tab[data-tab="${tabId}"]`).classList.add('active');
+            const tabs = document.querySelectorAll(".tab");
+            tabs.forEach(tab => {
+                tab.classList.remove("active");
+            });
+
+            const activeTab = document.querySelector(`.tab[data-tab="${tabId}"]`);
+            if (activeTab) {
+                activeTab.classList.add("active");
+            }
         }
         // URL 해시값에 따라 초기 활성화 탭 설정
         function activateTabFromHash() {

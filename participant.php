@@ -1,4 +1,16 @@
-<?php include 'db.php'; ?>
+<?php
+session_start();
+
+// Oracle DB 연결 설정
+$host = "203.249.87.57/orcl";
+$user = "DB502_PROJ_G2";
+$password = "6969";
+$conn = oci_connect($user, $password, $host, 'AL32UTF8');
+
+if (!$conn) {
+    die("Oracle 데이터베이스 연결 실패: " . oci_error());
+}
+?>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -150,7 +162,7 @@
             </a>
         </div>
         <h2>대회참가 신청서</h2>
-        <form id="signupForm" method="POST" action="membership.php">
+        <form id="signupForm" method="POST" action="participant_process.php">
             <div class="form-group">
                 <input type="text" id="student_id" name="student_id" placeholder="아이디(학번)" required>
             </div>

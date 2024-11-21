@@ -97,7 +97,7 @@ if (isset($_POST['action']) && $_POST['action'] == 'register_user') {
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background: url('img/bg.jpeg') no-repeat center center;
+            background: url('img/메인화면배경/bg.jpeg') no-repeat center center;
             background-size: cover;
             color: #fff; /* 배경과 어울리도록 텍스트 색상 설정 */
         }
@@ -210,7 +210,7 @@ if (isset($_POST['action']) && $_POST['action'] == 'register_user') {
     <div class="signup-container">
         <div class="logo-container">
             <a href="mainpage.php">
-                <img src="img/VOX.png" alt="로고" class = "logo-container img">
+                <img src="img/로고/VOX.png" alt="로고" class = "logo-container img">
             </a>
         </div>
         <h2>회원가입</h2>

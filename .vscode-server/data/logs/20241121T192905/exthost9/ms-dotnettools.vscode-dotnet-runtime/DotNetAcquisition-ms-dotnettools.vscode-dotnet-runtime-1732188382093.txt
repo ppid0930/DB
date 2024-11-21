@@ -1,0 +1,646 @@
+2024. 11. 21. 오후 8:26:22 DotnetWSLCheckEvent
+true
+Checking if system is WSL. OS: linux
+
+2024. 11. 21. 오후 8:26:22 DotnetWSLOperationOutputEvent
+The output of the WSL check:
+stdout: 
+stderr: 
+status: 1
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-ko for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+2024. 11. 21. 오후 8:26:22 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-ko for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension Oracle.oracledevtools for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+2024. 11. 21. 오후 8:29:31 DotnetAcquisitionRequested
+8.0
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+
+2024. 11. 21. 오후 8:29:31 DotnetRuntimeAcquisitionRequested
+8.0
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+runtime
+
+2024. 11. 21. 오후 8:29:31 WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+2024. 11. 21. 오후 8:29:32 DotnetVersionResolutionCompleted
+8.0
+8.0.11
+
+2024. 11. 21. 오후 8:29:32 DotnetInstallIdCreatedEvent
+true
+The requested version 8.0.11 is now marked under the install: {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"}.
+
+2024. 11. 21. 오후 8:29:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:32.304Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:32.305Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 21. 오후 8:29:32 FoundTrackingVersions
+true
+installing :
+
+
+2024. 11. 21. 오후 8:29:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:32.307Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:32 FoundTrackingVersions
+true
+installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 21. 오후 8:29:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:32.308Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 21. 오후 8:29:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:32.308Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:32 RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} with id installing from the state.
+
+2024. 11. 21. 오후 8:29:32 FoundTrackingVersions
+true
+installing :
+
+
+2024. 11. 21. 오후 8:29:32 AddTrackingVersions
+true
+Updated installing :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 21. 오후 8:29:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:32.316Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:32 DotnetAcquisitionStarted
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+8.0.11
+8.0.11~x64
+Oracle.oracledevtools
+
+2024. 11. 21. 오후 8:29:32 DotnetRuntimeAcquisitionStarted
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+
+2024. 11. 21. 오후 8:29:32 WebRequestSent
+https://dot.net/v1/dotnet-install.sh
+
+2024. 11. 21. 오후 8:29:33 DotnetFileWriteRequestEvent
+true
+Request to write
+2024-11-21T11:29:33.764Z
+5e1b7c6250da622c296b6a6e2eb7250d617c9b823582add8f15dc3e186cbb64e
+
+2024. 11. 21. 오후 8:29:33 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:33.765Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+2024. 11. 21. 오후 8:29:33 DotnetLockAcquiredEvent
+true
+Lock Acquired.
+2024-11-21T11:29:33.767Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+2024. 11. 21. 오후 8:29:33 DotnetFileWriteRequestEvent
+true
+File content is an exact match, not writing file.
+2024-11-21T11:29:33.770Z
+5e1b7c6250da622c296b6a6e2eb7250d617c9b823582add8f15dc3e186cbb64e
+
+2024. 11. 21. 오후 8:29:33 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:33.771Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+2024. 11. 21. 오후 8:29:33 DotnetInstallScriptAcquisitionCompleted
+
+2024. 11. 21. 오후 8:29:40 DotnetAcquisitionScriptOutput
+8.0.11~x64
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+ dotnet-install: Note that the intended use of this script is for Continuous Integration (CI) scenarios, where:
+dotnet-install: - The SDK needs to be installed without user interaction and without admin rights.
+dotnet-install: - The SDK installation doesn't need to persist across multiple CI runs.
+dotnet-install: To set up a development environment or to run apps, use installers rather than this script. Visit https://dotnet.microsoft.com/download to get the installer.
+
+dotnet-install: Calling: machine_has curl
+dotnet-install: Calling: calculate_vars 
+dotnet-install: Calling: get_normalized_architecture_from_architecture x64
+dotnet-install: Normalized architecture: 'x64'.
+dotnet-install: Calling: get_normalized_os 
+dotnet-install: Calling: get_current_os_name 
+dotnet-install: Calling: get_linux_platform_name 
+dotnet-install: Normalized OS: 'linux'.
+dotnet-install: Calling: get_normalized_quality 
+dotnet-install: Normalized quality: ''.
+dotnet-install: Calling: get_normalized_channel LTS
+dotnet-install: Normalized channel: 'LTS'.
+dotnet-install: Calling: get_normalized_product dotnet
+dotnet-install: Normalized product: 'dotnet-runtime'.
+dotnet-install: Calling: resolve_installation_path /var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64
+dotnet-install: InstallRoot: '/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64'.
+dotnet-install: Calling: get_normalized_architecture_for_specific_sdk_version 8.0.11 LTS x64
+dotnet-install: Calling: get_current_os_name 
+dotnet-install: Calling: get_linux_platform_name 
+dotnet-install: Calling: get_specific_version_from_version https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11 
+dotnet-install: Calling: get_specific_product_version https://dotnetcli.azureedge.net/dotnet 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: specific_version=8.0.11
+dotnet-install: Calling: construct_download_link https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11 linux
+dotnet-install: Calling: get_specific_product_version https://dotnetcli.azureedge.net/dotnet 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Constructed primary named payload URL: https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: construct_legacy_download_link https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11
+dotnet-install: Calling: get_legacy_os_name 
+dotnet-install: Calling: get_legacy_os_name_from_platform ubuntu.22.04
+dotnet-install: Distribution specific OS name and version could not be detected: UName = Linux
+dotnet-install: Cound not construct a legacy_download_link; omitting...
+dotnet-install: Calling: is_dotnet_package_installed cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App 8.0.11
+dotnet-install: Calling: combine_paths cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64
+dotnet-install: combine_paths: child_path=shared/Microsoft.NETCore.App
+dotnet-install: Calling: combine_paths 4120034d81e926e81c40a5f5073db4242365b7afcbff4ce74f8675c5978fbb07 8.0.11
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11
+dotnet-install: Calling: get_specific_version_from_version https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11 
+dotnet-install: Calling: get_specific_product_version https://dotnetbuilds.azureedge.net/public 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Failed to get the version using productVersion.txt file. Download link will be parsed instead.
+dotnet-install: Calling: get_product_specific_version_from_download_link  8.0.11
+dotnet-install: specific_version=8.0.11
+dotnet-install: Calling: construct_download_link https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11 linux
+dotnet-install: Calling: get_specific_product_version https://dotnetbuilds.azureedge.net/public 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/runtime-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Failed to get the version using productVersion.txt file. Download link will be parsed instead.
+dotnet-install: Calling: get_product_specific_version_from_download_link  8.0.11
+dotnet-install: Constructed primary named payload URL: https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: construct_legacy_download_link https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11
+dotnet-install: Calling: get_legacy_os_name 
+dotnet-install: Calling: get_legacy_os_name_from_platform ubuntu.22.04
+dotnet-install: Distribution specific OS name and version could not be detected: UName = Linux
+dotnet-install: Cound not construct a legacy_download_link; omitting...
+dotnet-install: Calling: is_dotnet_package_installed cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App 8.0.11
+dotnet-install: Calling: combine_paths cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64
+dotnet-install: combine_paths: child_path=shared/Microsoft.NETCore.App
+dotnet-install: Calling: combine_paths 4120034d81e926e81c40a5f5073db4242365b7afcbff4ce74f8675c5978fbb07 8.0.11
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11
+dotnet-install: Generated 2 links.
+dotnet-install: Link 0: primary, 8.0.11, https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Link 1: primary, 8.0.11, https://dotnetbuilds.azureedge.net/public/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: install_dotnet 
+dotnet-install: Archive path: /tmp/dotnet.5Lp2DUMeH
+dotnet-install: Attempting to download using primary link https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: download https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz /tmp/dotnet.5Lp2DUMeH
+dotnet-install: Calling: machine_has curl
+dotnet-install: Calling: downloadcurl https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz /tmp/dotnet.5Lp2DUMeH
+dotnet-install: Calling: machine_has curl
+dotnet-install: Remote file https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz size is 31277651 bytes.
+dotnet-install: Extracting archive from https://dotnetcli.azureedge.net/dotnet/Runtime/8.0.11/dotnet-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: extract_dotnet_package /tmp/dotnet.5Lp2DUMeH cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd 31277651
+dotnet-install: Calling: copy_files_or_dirs_from_list /tmp/dotnet.WkWU1ySuX cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd false
+dotnet-install: Calling: get_cp_options false
+dotnet-install: Calling: copy_files_or_dirs_from_list /tmp/dotnet.WkWU1ySuX cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd true
+dotnet-install: Calling: get_cp_options true
+dotnet-install: Calling: validate_remote_local_file_sizes /tmp/dotnet.5Lp2DUMeH 31277651
+dotnet-install: Downloaded file size is 31277651 bytes.
+dotnet-install: The remote and local file sizes are equal.
+dotnet-install: Temporary archive file /tmp/dotnet.5Lp2DUMeH was removed
+dotnet-install: Checking installation: version = 8.0.11
+dotnet-install: Calling: is_dotnet_package_installed cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App 8.0.11
+dotnet-install: Calling: combine_paths cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64
+dotnet-install: combine_paths: child_path=shared/Microsoft.NETCore.App
+dotnet-install: Calling: combine_paths 4120034d81e926e81c40a5f5073db4242365b7afcbff4ce74f8675c5978fbb07 8.0.11
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11
+dotnet-install: Installed version is 8.0.11
+dotnet-install: Calling: combine_paths cf7020ccf070baa9bd54932e20c32cd5bd11a9652ddda09e4f566b0edf19fbcd 
+dotnet-install: combine_paths: root_path=/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64
+dotnet-install: combine_paths: child_path=
+dotnet-install: Calling: get_absolute_path /var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/
+dotnet-install: Adding to current process PATH: `/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64`. Note: This change will be visible only when sourcing script.
+dotnet-install: Note that the script does not resolve dependencies during installation.
+dotnet-install: To check the list of dependencies, go to https://learn.microsoft.com/dotnet/core/install, select your operating system and check the "Dependencies" section.
+dotnet-install: Installation finished successfully.
+
+
+2024. 11. 21. 오후 8:29:40 DotnetAcquisitionCompleted
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+8.0.11
+8.0.11~x64
+/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet
+
+2024. 11. 21. 오후 8:29:40 DotnetInstallationValidated
+8.0.11~x64
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+
+2024. 11. 21. 오후 8:29:40 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:40.674Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:40 RemovingVersionFromExtensionState
+true
+Removing {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} with id installing from the state.
+
+2024. 11. 21. 오후 8:29:40 FoundTrackingVersions
+true
+installing :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 21. 오후 8:29:40 RemovingExtensionFromList
+true
+The last owner Oracle.oracledevtools removed {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} entirely from the state.
+
+2024. 11. 21. 오후 8:29:40 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:40.687Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 21. 오후 8:29:40 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-21T11:29:40.688Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 21. 오후 8:29:40 RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} with id installed from the state.
+
+2024. 11. 21. 오후 8:29:40 FoundTrackingVersions
+true
+installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 21. 오후 8:29:40 AddTrackingVersions
+true
+Updated installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 21. 오후 8:29:40 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-21T11:29:40.733Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 21. 오후 8:29:40 DotnetCommandSucceeded
+acquire
+
+2024. 11. 21. 오후 8:29:40 DotnetAcquisitionTotalSuccessEvent
+8.0.11
+8.0.11~x64
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet
+
+2024. 11. 21. 오후 8:29:40 DotnetRuntimeAcquisitionTotalSuccessEvent
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+
+2024. 11. 21. 오후 8:29:40 DotnetCommandSucceeded
+ensureDependencies
