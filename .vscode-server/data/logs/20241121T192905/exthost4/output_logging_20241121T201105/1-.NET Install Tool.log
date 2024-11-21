@@ -1,0 +1,20 @@
+Oracle.oracledevtools requested to download the .NET Runtime.
+Downloading .NET version(s) 8.0.11~x64 ........... Done!
+.NET 8.0.11~x64 executable path: /var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet
+
+
+Error : (DotnetInstallationValidationError)
+Failed to download .NET 8.0.11~x64:
+Validation of .dotnet installation for version {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} failed: Expected executable does not exist at "/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet"
+
+
+Error : (DotnetCommandFailed)
+Failed to download .NET 8.0.11~x64:
+.NET Acquisition Failed: Validation of .dotnet installation for version {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} failed: Expected executable does not exist at "/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet", Error: Validation of .dotnet installation for version {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} failed: Expected executable does not exist at "/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet"
+	at c.assertOrThrowError (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:99774)
+	at c.validateDotnetInstall (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:99368)
+	at y.<anonymous> (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:39828)
+	at Generator.next (<anonymous>)
+	at s (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:33041)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+

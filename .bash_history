@@ -15,3 +15,8 @@ git push origin main --force
 git checkout logout.php
 git checkout --.
 git checkout --
+git
+git commit
+git config --global user.email "ppid0930@naver.com"
+git config --global user.name "ppid0930"
+git commit

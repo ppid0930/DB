@@ -1,0 +1,13 @@
+2024-11-21 20:18:49.518 [info] Extension host with pid 134909 started
+2024-11-21 20:18:49.580 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-21 20:18:49.581 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: '*', root cause: Oracle.oracledevtools
+2024-11-21 20:18:49.800 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2024-11-21 20:18:50.410 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-21 20:18:50.411 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-21 20:18:50.566 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-21 20:19:00.644 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:19:00.645 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:19:00.646 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:19:00.647 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:19:07.067 [info] Extension host terminating: received terminate message from renderer
+2024-11-21 20:19:07.083 [info] Extension host with pid 134909 exiting with code 0
