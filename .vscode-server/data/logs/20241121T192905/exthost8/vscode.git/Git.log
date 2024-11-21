@@ -1,0 +1,30 @@
+2024-11-21 20:19:24.128 [info] [main] 로그 수준: Info
+2024-11-21 20:19:24.128 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2024-11-21 20:19:24.128 [info] [main] "2.34.1"에서 git "git"을(를) 사용하는 중
+2024-11-21 20:19:24.128 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-21 20:19:24.128 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-21 20:19:24.128 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-11-21 20:19:24.128 [info] [Model][openRepository] Opened repository: /var/www/html/2_team/2_team2
+2024-11-21 20:19:24.132 [info] > git config --get commit.template [4ms]
+2024-11-21 20:19:24.140 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-21 20:19:24.140 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-11-21 20:19:24.150 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-11-21 20:19:24.151 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-21 20:19:24.154 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-21 20:19:24.158 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-21 20:19:24.161 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-21 20:19:24.171 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-21 20:19:24.176 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-21 20:19:24.180 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-21 20:19:24.183 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-21 20:19:24.187 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-21 20:19:24.190 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-21 20:19:24.240 [info] > git status -z -uall [97ms] (cancelled)
+2024-11-21 20:19:24.642 [info] > git check-ignore -v -z --stdin [3ms]
+2024-11-21 20:19:24.790 [info] > git show --textconv :write.php [4ms]
+2024-11-21 20:19:24.791 [info] > git ls-files --stage -- /var/www/html/2_team/2_team2/write.php [2ms]
+2024-11-21 20:19:24.796 [info] > git cat-file -s 93d11d1808c9045c42b5ecb6fb725dd38a274765 [1ms]
+2024-11-21 20:20:28.982 [info] > git show --textconv :participant.php [9ms]
+2024-11-21 20:20:28.984 [info] > git ls-files --stage -- /var/www/html/2_team/2_team2/participant.php [3ms]
+2024-11-21 20:20:28.988 [info] > git cat-file -s 06faf86dff364156cdcf26621b57df807fe36e8c [2ms]
+2024-11-21 20:21:33.541 [info] > git check-ignore -v -z --stdin [3ms]

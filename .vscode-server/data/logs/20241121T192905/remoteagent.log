@@ -38,3 +38,103 @@
 2024-11-21 20:11:04.679 [info] [<unknown>][5d61154e][ExtensionHostConnection] New connection established.
 2024-11-21 20:11:04.682 [info] [<unknown>][5d61154e][ExtensionHostConnection] <132970> Launched Extension Host Process.
 2024-11-21 20:11:04.685 [info] [<unknown>][1f27419b][ManagementConnection] New connection established.
+2024-11-21 20:11:23.693 [info] Getting Manifest... oracle.oracledevtools
+2024-11-21 20:11:23.980 [info] Installing extension: oracle.oracledevtools {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:11:24.215 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-21 20:11:24.431 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:11:26.670 [info] Extension signature verification result for ms-dotnettools.vscode-dotnet-runtime: Success. Executed: true. Duration: 1426ms.
+2024-11-21 20:11:26.673 [warning] Error while scanning the existing extension at /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3. Deleting the existing extension and extracting it. Cannot read the extension from /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3
+2024-11-21 20:11:26.674 [info] Deleted removeExisting extension from disk ms-dotnettools.vscode-dotnet-runtime /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3
+2024-11-21 20:11:26.729 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3: ms-dotnettools.vscode-dotnet-runtime
+2024-11-21 20:11:26.794 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3
+2024-11-21 20:11:39.760 [info] Getting Manifest... ritwickdey.liveserver
+2024-11-21 20:11:39.951 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:11:40.419 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-11-21 20:11:40.607 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:11:41.999 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-slideshow: Success. Executed: true. Duration: 937ms.
+2024-11-21 20:11:42.016 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2024-11-21 20:11:42.019 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2024-11-21 20:11:42.025 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:11:42.128 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 974ms.
+2024-11-21 20:11:44.128 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-11-21 20:11:44.148 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-11-21 20:11:44.157 [info] Extension installed successfully: ritwickdey.liveserver file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:11:52.002 [info] Extension signature verification result for oracle.oracledevtools: Success. Executed: true. Duration: 1020ms.
+2024-11-21 20:11:52.290 [warning] Error while scanning the existing extension at /var/www/html/2_team/2_team2/.vscode-server/extensions/oracle.oracledevtools-23.4.1. Deleting the existing extension and extracting it. Cannot read the extension from /var/www/html/2_team/2_team2/.vscode-server/extensions/oracle.oracledevtools-23.4.1
+2024-11-21 20:11:52.291 [info] Deleted removeExisting extension from disk oracle.oracledevtools /var/www/html/2_team/2_team2/.vscode-server/extensions/oracle.oracledevtools-23.4.1
+2024-11-21 20:11:57.785 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/oracle.oracledevtools-23.4.1: oracle.oracledevtools
+2024-11-21 20:11:57.837 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/oracle.oracledevtools-23.4.1
+2024-11-21 20:11:57.861 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:11:57.861 [info] Extension installed successfully: oracle.oracledevtools file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:12:22.668 [info] [<unknown>][1f27419b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 20:12:22.702 [info] [<unknown>][5d61154e][ExtensionHostConnection] <132970> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:12:40.345 [info] [<unknown>][820817d8][ManagementConnection] New connection established.
+2024-11-21 20:12:40.349 [info] [<unknown>][7edfb804][ExtensionHostConnection] New connection established.
+2024-11-21 20:12:40.353 [info] [<unknown>][7edfb804][ExtensionHostConnection] <133678> Launched Extension Host Process.
+2024-11-21 20:13:06.610 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:13:06.628 [info] Marked extension as uninstalled oracle.oracledevtools-23.4.1
+2024-11-21 20:13:06.837 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:13:08.421 [info] Getting Manifest... oracle.oracledevtools
+2024-11-21 20:13:08.698 [info] Installing extension: oracle.oracledevtools {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:13:08.910 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-21 20:13:09.130 [info] Removed the extension from uninstalled list: oracle.oracledevtools
+2024-11-21 20:13:09.150 [info] Extension installed successfully: oracle.oracledevtools file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:13:58.753 [info] Getting Manifest... esbenp.prettier-vscode
+2024-11-21 20:13:58.949 [info] Installing extension: esbenp.prettier-vscode {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:14:00.729 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 905ms.
+2024-11-21 20:14:00.820 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-11-21 20:14:00.823 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/esbenp.prettier-vscode-11.0.0
+2024-11-21 20:14:00.836 [info] Extension installed successfully: esbenp.prettier-vscode file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:30.613 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:30.634 [info] Marked extension as uninstalled oracle.oracledevtools-23.4.1
+2024-11-21 20:14:30.837 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:32.790 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:32.972 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:34.962 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:35.141 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:54.039 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:54.257 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:55.698 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:55.876 [info] Extensions is already requested to uninstall oracle.oracledevtools
+2024-11-21 20:14:55.879 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:55.996 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:56.105 [info] Extensions is already requested to uninstall oracle.oracledevtools
+2024-11-21 20:14:56.177 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:57.480 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:57.672 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:58.874 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:14:59.057 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:15:02.537 [info] [<unknown>][820817d8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 20:15:02.603 [info] [<unknown>][7edfb804][ExtensionHostConnection] <133678> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:15:11.086 [info] [<unknown>][759c1313][ExtensionHostConnection] New connection established.
+2024-11-21 20:15:11.090 [info] [<unknown>][759c1313][ExtensionHostConnection] <134312> Launched Extension Host Process.
+2024-11-21 20:15:11.092 [info] [<unknown>][79bf013e][ManagementConnection] New connection established.
+2024-11-21 20:15:30.341 [info] Getting Manifest... oracle.oracledevtools
+2024-11-21 20:15:30.622 [info] Installing extension: oracle.oracledevtools {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:15:30.907 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-21 20:15:31.139 [info] Removed the extension from uninstalled list: oracle.oracledevtools
+2024-11-21 20:15:31.244 [info] Extension installed successfully: oracle.oracledevtools file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:16:49.388 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-21 20:17:58.082 [info] [<unknown>][79bf013e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 20:17:58.132 [info] [<unknown>][759c1313][ExtensionHostConnection] <134312> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:18:48.827 [info] [<unknown>][df96d37c][ExtensionHostConnection] New connection established.
+2024-11-21 20:18:48.831 [info] [<unknown>][df96d37c][ExtensionHostConnection] <134909> Launched Extension Host Process.
+2024-11-21 20:18:48.833 [info] [<unknown>][9fc6f3f5][ManagementConnection] New connection established.
+2024-11-21 20:19:07.064 [info] [<unknown>][9fc6f3f5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 20:19:07.093 [info] [<unknown>][df96d37c][ExtensionHostConnection] <134909> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:19:21.777 [info] [<unknown>][808849e6][ManagementConnection] New connection established.
+2024-11-21 20:19:21.785 [info] [<unknown>][1dc4799a][ExtensionHostConnection] New connection established.
+2024-11-21 20:19:21.794 [info] [<unknown>][1dc4799a][ExtensionHostConnection] <135164> Launched Extension Host Process.
+2024-11-21 20:22:41.284 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:22:41.307 [info] Marked extension as uninstalled oracle.oracledevtools-23.4.1
+2024-11-21 20:22:41.531 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:23:14.345 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:23:14.591 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:23:18.926 [info] Getting Manifest... oracle.oracledevtools
+2024-11-21 20:23:19.201 [info] Installing extension: oracle.oracledevtools {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 20:23:19.415 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-11-21 20:23:19.644 [info] Removed the extension from uninstalled list: oracle.oracledevtools
+2024-11-21 20:23:19.665 [info] Extension installed successfully: oracle.oracledevtools file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:23:22.220 [info] Uninstalling extension from the profile: oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 20:23:22.236 [info] Marked extension as uninstalled oracle.oracledevtools-23.4.1
+2024-11-21 20:23:22.404 [info] Successfully uninstalled extension from the profile oracle.oracledevtools@23.4.1 file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json

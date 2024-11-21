@@ -20,3 +20,25 @@
 2024-11-21 20:10:59.341 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1539
 2024-11-21 20:11:04.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1539
 2024-11-21 20:11:12.960 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1541
+2024-11-21 20:11:13.443 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1541
+2024-11-21 20:11:13.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1541
+2024-11-21 20:11:18.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1542
+2024-11-21 20:11:23.638 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1542
+2024-11-21 20:11:44.521 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:11:58.359 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2024-11-21 20:11:58.685 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2024-11-21 20:12:02.188 [error] TypeError: Cannot read properties of undefined (reading 'replace')
+	at n (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:209589)
+	at t.sanitizeProperties (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:209776)
+	at t.DotnetCommandFailed.getSanitizedProperties (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:179106)
+	at t.TelemetryObserver.post (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:187747)
+	at mh.value (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:177094)
+	at P.B (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.C (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at P.fire (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at t.EventStream.post (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:134826)
+	at /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:211358
+	at Generator.throw (<anonymous>)
+	at a (/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/extension.js:2:210559)
+2024-11-21 20:12:32.555 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2024-11-21 20:14:01.287 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
