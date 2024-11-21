@@ -1,0 +1,305 @@
+update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch jhw
+# Your branch is ahead of 'origin/jhw' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .vscode-server/.cli.f1a4fb101478ce6ec82fe9627c43efbf9e98c813.log
+#	new file:   .vscode-server/data/CachedProfilesData/__default__profile__/extensions.user.cache
+#	new file:   .vscode-server/data/User/History/-3e344ebd/0PLK.php
+#	new file:   .vscode-server/data/User/History/-3e344ebd/WM9T.php
+#	new file:   .vscode-server/data/User/History/-3e344ebd/XBL8.php
+#	new file:   .vscode-server/data/User/History/-3e344ebd/entries.json
+#	new file:   .vscode-server/data/User/History/-3e344ebd/faBA.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/0oTG.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/8GCq.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/BC2U.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/IE8u.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/JNFX.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/ULhG.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/WuWn.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/Z3SS.php
+#	modified:   .vscode-server/data/User/History/-4393ca3/entries.json
+#	new file:   .vscode-server/data/User/History/-4393ca3/oZHB.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/olp9.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/wqFA.php
+#	new file:   .vscode-server/data/User/History/-4f86dcce/2874.php
+#	modified:   .vscode-server/data/User/History/-4f86dcce/entries.json
+#	new file:   .vscode-server/data/User/History/-4f86dcce/oyOD.php
+#	new file:   .vscode-server/data/User/History/-59d6ed64/5WDd.php
+#	new file:   .vscode-server/data/User/History/-59d6ed64/entries.json
+#	new file:   .vscode-server/data/User/History/-5cb0a40c/Dg1Z.php
+#	new file:   .vscode-server/data/User/History/-5cb0a40c/entries.json
+#	new file:   .vscode-server/data/User/History/-6ff0a7c0/7RW0.php
+#	new file:   .vscode-server/data/User/History/-6ff0a7c0/entries.json
+#	new file:   .vscode-server/data/User/History/155e28e8/Dov2.php
+#	modified:   .vscode-server/data/User/History/155e28e8/entries.json
+#	new file:   .vscode-server/data/User/History/185ced8d/F53i.php
+#	new file:   .vscode-server/data/User/History/185ced8d/GEBt.php
+#	new file:   .vscode-server/data/User/History/185ced8d/M81k.php
+#	new file:   .vscode-server/data/User/History/185ced8d/entries.json
+#	new file:   .vscode-server/data/User/History/185ced8d/gUNc.php
+#	new file:   .vscode-server/data/User/History/185ced8d/mjJL.php
+#	modified:   .vscode-server/data/User/History/22c3aad8/entries.json
+#	new file:   .vscode-server/data/User/History/22c3aad8/h5br.php
+#	new file:   .vscode-server/data/User/History/2ba80fa5/elkf.php
+#	new file:   .vscode-server/data/User/History/2ba80fa5/entries.json
+#	new file:   .vscode-server/data/User/History/31bd1454/GEcU.php
+#	new file:   .vscode-server/data/User/History/31bd1454/Kmvc.php
+#	new file:   .vscode-server/data/User/History/31bd1454/bJJU.php
+#	new file:   .vscode-server/data/User/History/31bd1454/entries.json
+#	new file:   .vscode-server/data/User/History/31bd1454/izZC.php
+#	new file:   .vscode-server/data/User/History/31bd1454/w4yD.php
+#	new file:   .vscode-server/data/User/History/31bd1454/xHy3.php
+#	new file:   .vscode-server/data/User/History/31bd1454/ymMA.php
+#	new file:   .vscode-server/data/User/History/31bd1454/yyzg.php
+#	new file:   .vscode-server/data/User/History/31bd1454/zSti.php
+#	new file:   .vscode-server/data/User/History/449b7029/Zi4a.php
+#	modified:   .vscode-server/data/User/History/449b7029/entries.json
+#	new file:   .vscode-server/data/User/History/48bf48e4/entries.json
+#	new file:   .vscode-server/data/User/History/48bf48e4/oWiY.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/3Tgp.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/entries.json
+#	new file:   .vscode-server/data/User/History/7624a09b/entries.json
+#	new file:   .vscode-server/data/User/History/7624a09b/kD1c
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/LICENSE.txt
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/ThirdPartyNotices.txt
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/host/fxr/8.0.11/libhostfxr.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/.version
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.CSharp.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.NETCore.App.deps.json
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.NETCore.App.runtimeconfig.json
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.VisualBasic.Core.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.VisualBasic.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.Win32.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/Microsoft.Win32.Registry.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.AppContext.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Buffers.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Collections.Concurrent.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Collections.Immutable.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Collections.NonGeneric.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Collections.Specialized.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Collections.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.Annotations.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.DataAnnotations.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.EventBasedAsync.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.TypeConverter.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ComponentModel.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Configuration.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Console.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Core.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Data.Common.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Data.DataSetExtensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Data.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.Contracts.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.Debug.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.DiagnosticSource.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.FileVersionInfo.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.Process.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.StackTrace.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.TextWriterTraceListener.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.Tools.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.TraceSource.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Diagnostics.Tracing.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Drawing.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Drawing.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Dynamic.Runtime.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Formats.Asn1.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Formats.Tar.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Globalization.Calendars.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Globalization.Extensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Globalization.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Compression.Brotli.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Compression.FileSystem.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Compression.ZipFile.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Compression.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.FileSystem.AccessControl.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.FileSystem.DriveInfo.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.FileSystem.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.FileSystem.Watcher.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.FileSystem.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.IsolatedStorage.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.MemoryMappedFiles.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Pipes.AccessControl.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.Pipes.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.UnmanagedMemoryStream.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.IO.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Linq.Expressions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Linq.Parallel.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Linq.Queryable.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Linq.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Memory.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Http.Json.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Http.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.HttpListener.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Mail.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.NameResolution.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.NetworkInformation.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Ping.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Quic.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Requests.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Security.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.ServicePoint.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.Sockets.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.WebClient.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.WebHeaderCollection.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.WebProxy.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.WebSockets.Client.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.WebSockets.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Net.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Numerics.Vectors.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Numerics.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ObjectModel.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Private.CoreLib.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Private.DataContractSerialization.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Private.Uri.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Private.Xml.Linq.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Private.Xml.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.DispatchProxy.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Emit.ILGeneration.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Emit.Lightweight.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Emit.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Extensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Metadata.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.TypeExtensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Reflection.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Resources.Reader.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Resources.ResourceManager.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Resources.Writer.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.CompilerServices.Unsafe.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.CompilerServices.VisualC.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Extensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Handles.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.InteropServices.JavaScript.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.InteropServices.RuntimeInformation.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.InteropServices.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Intrinsics.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Loader.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Numerics.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Serialization.Formatters.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Serialization.Json.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Serialization.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Serialization.Xml.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.Serialization.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Runtime.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.AccessControl.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Claims.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.Algorithms.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.Cng.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.Csp.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.Encoding.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.OpenSsl.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.Primitives.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.X509Certificates.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Cryptography.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Principal.Windows.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.Principal.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.SecureString.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Security.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ServiceModel.Web.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ServiceProcess.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.Encoding.CodePages.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.Encoding.Extensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.Encoding.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.Encodings.Web.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.Json.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Text.RegularExpressions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Channels.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Overlapped.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Tasks.Dataflow.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Tasks.Extensions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Tasks.Parallel.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Tasks.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Thread.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.ThreadPool.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.Timer.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Threading.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Transactions.Local.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Transactions.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.ValueTuple.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Web.HttpUtility.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Web.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Windows.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.Linq.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.ReaderWriter.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.Serialization.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.XDocument.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.XPath.XDocument.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.XPath.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.XmlDocument.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.XmlSerializer.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.Xml.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/System.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/WindowsBase.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/createdump
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libSystem.Globalization.Native.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libSystem.IO.Compression.Native.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libSystem.Native.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libSystem.Net.Security.Native.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libSystem.Security.Cryptography.Native.OpenSsl.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libclrgc.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libclrjit.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libcoreclr.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libcoreclrtraceptprovider.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libhostpolicy.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libmscordaccore.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/libmscordbi.so
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/mscorlib.dll
+#	new file:   .vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/shared/Microsoft.NETCore.App/8.0.11/netstandard.dll
+#	modified:   .vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f/vscode.lock
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/output_logging_20241121T203001/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/output_logging_20241121T203001/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/output_logging_20241121T203001/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost10/vscode.github/GitHub.log
+#	modified:   .vscode-server/data/logs/20241121T192905/exthost3/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241121T192905/exthost3/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20241121T192905/exthost8/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732188382093.txt
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/output_logging_20241121T202621/1-Prettier.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/output_logging_20241121T202621/2-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/output_logging_20241121T202621/3-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241121T192905/exthost9/vscode.github/GitHub.log
+#	modified:   .vscode-server/data/logs/20241121T192905/ptyhost.log
+#	modified:   .vscode-server/data/logs/20241121T192905/remoteagent.log
+#	deleted:    .vscode-server/extensions/.obsolete
+#	modified:   .vscode-server/extensions/extensions.json
+#	modified:   Battlegamepage.php
+#	modified:   FIFAgamepage.php
+#	modified:   LOLgamepage.php
+#	new file:   Oracle/oracle.oracledevtools/preferences.json
+#	new file:   db.php
+#	new file:   "img/\353\241\234\352\263\240/\353\241\244 \353\241\234\352\263\240.png"
+#	renamed:    "img/\353\260\260\352\267\270/\353\260\260\352\267\270\353\241\234\352\263\240.png" -> "img/\353\241\234\352\263\240/\353\260\260\352\267\270\353\241\234\352\263\240.png"
+#	renamed:    "img/\355\224\274\355\214\214/\355\224\274\355\214\214\353\241\234\352\263\240.png" -> "img/\353\241\234\352\263\240/\355\224\274\355\214\214\353\241\234\352\263\240.png"
+#	new file:   "img/\353\241\244/\353\241\244 \353\214\200\354\247\204\355\221\234.png"
+#	new file:   "img/\353\260\260\352\267\270/\353\260\260\352\267\270 \353\214\200\355\232\214.jpg"
+#	deleted:    "img/\353\260\260\352\267\270/\353\260\260\352\267\270.jpeg"
+#	modified:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \353\214\200\355\232\214.jpg"
+#	new file:   index.php
+#	new file:   logintest.php
+#	new file:   logout.php
+#	new file:   mainpage_login.php
+#	modified:   membership.php
+#	new file:   navbar_login.php
+#	modified:   participant.php
+#	modified:   participant_process.php
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20241121T192905/exthost3/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241121T192905/exthost3/vscode.git/Git.log
+#
