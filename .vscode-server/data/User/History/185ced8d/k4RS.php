@@ -63,20 +63,18 @@ oci_bind_by_name($insert_stmt, ":self_intro", $self_intro);
 
 // 실행 및 결과 처리
 if (oci_execute($insert_stmt)) {
-    $redirect_url = isset($_POST['redirect_url']) ? $_POST['redirect_url'] : 'mainpage.php';
-    // JavaScript alert 메시지와 함께 리다이렉트 처리
-    echo '<script>
-        alert("대회 참가 신청이 완료되었습니다.");
-        window.location.href = "' . $redirect_url . '";
-    </script>';
-    exit;
+    echo "<script>
+        alert('대회 참가 신청이 완료되었습니다.');
+        $redirect_url = isset($_POST['redirect_url']) ? $_POST['redirect_url'] : 'mainpage.php';
+        header("Location: $redirect_url");
+        exit;;
+    </script>";
 } else {
     $error = oci_error($insert_stmt);
-    echo '<script>
-        alert("오류 발생: ' . htmlspecialchars($error['message']) . '");
-        history.back();
-    </script>';
-    exit;
+    echo "<script>
+        alert('오류 발생: " . htmlspecialchars($error['message']) . "');
+        window.location.href = '$redirect_url';
+    </script>";
 }
 
 // 리소스 해제 및 연결 종료

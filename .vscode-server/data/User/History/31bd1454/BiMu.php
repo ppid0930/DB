@@ -197,7 +197,7 @@ if (!$conn) {
 
     <div class="tab-contents">
         <div class="tab-content" id="info">
-            <img src="img/롤/롤 대진표.png" alt="대진표" class="bracket-image">
+            <img src="img/fhf/롤 대진표.png" alt="대진표" class="bracket-image">
         </div>
         <div class="tab-content" id="date">
             <p>대회일정</p>
@@ -206,7 +206,7 @@ if (!$conn) {
             <p>대회규정 & 진행방식</p>
         </div>
         <div class="tab-content" id="bracket">
-            <img src="img/롤/롤 대진표.png" alt="대진표" class="bracket-image">
+            <img src="img/fhf/롤 대진표.png" alt="대진표" class="bracket-image">
         </div>
         <div class="tab-content" id="prizes">
             <p>상품 및 결과</p>
