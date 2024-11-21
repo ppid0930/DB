@@ -1,0 +1,40 @@
+2024-11-21 19:29:05.503 [info] 
+
+
+
+
+2024-11-21 19:29:05.511 [info] Extension host agent started.
+2024-11-21 19:29:05.569 [info] [<unknown>][9a041969][ManagementConnection] New connection established.
+2024-11-21 19:29:05.583 [info] [<unknown>][1dd17a7b][ExtensionHostConnection] New connection established.
+2024-11-21 19:29:05.636 [info] [<unknown>][1dd17a7b][ExtensionHostConnection] <130106> Launched Extension Host Process.
+2024-11-21 19:29:05.701 [info] Installing extensions...
+2024-11-21 19:29:06.283 [info] Installing extension 'ms-ceintl.vscode-language-pack-ko'...
+2024-11-21 19:29:06.509 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2024-11-21 19:29:06.563 [info] Installing extension: ms-ceintl.vscode-language-pack-ko {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","external":"file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","path":"/var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-21 19:29:08.866 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ko: Success. Executed: true. Duration: 1785ms.
+2024-11-21 19:29:08.870 [warning] Error while scanning the existing extension at /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.95.2024103009. Deleting the existing extension and extracting it. Cannot read the extension from /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.95.2024103009
+2024-11-21 19:29:08.871 [info] Deleted removeExisting extension from disk ms-ceintl.vscode-language-pack-ko /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.95.2024103009
+2024-11-21 19:29:08.947 [info] Extracted extension to file:///var/www/html/2_team/2_team2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.95.2024103009: ms-ceintl.vscode-language-pack-ko
+2024-11-21 19:29:08.950 [info] Renamed to /var/www/html/2_team/2_team2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.95.2024103009
+2024-11-21 19:29:08.956 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2024-11-21 19:29:08.970 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko file:///var/www/html/2_team/2_team2/.vscode-server/extensions/extensions.json
+2024-11-21 19:29:08.971 [info] Extension 'ms-ceintl.vscode-language-pack-ko' v1.95.2024103009 was successfully installed.
+2024-11-21 19:34:05.511 [info] New EH opened, aborting shutdown
+2024-11-21 19:50:35.203 [info] [<unknown>][9a041969][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-21 19:50:52.795 [info] [<unknown>][9a041969][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-21 19:50:52.795 [info] [<unknown>][d43d0d06][ManagementConnection] New connection established.
+2024-11-21 19:50:52.801 [info] [<unknown>][715af69e][ExtensionHostConnection] New connection established.
+2024-11-21 19:50:52.804 [info] [<unknown>][715af69e][ExtensionHostConnection] <131087> Launched Extension Host Process.
+2024-11-21 19:55:52.863 [info] [<unknown>][9a041969][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-21 19:55:52.870 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-21 19:55:53.043 [info] [<unknown>][1dd17a7b][ExtensionHostConnection] <130106> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:10:28.872 [info] [<unknown>][dbb3a871][ManagementConnection] New connection established.
+2024-11-21 20:10:28.879 [info] [<unknown>][dba7864a][ExtensionHostConnection] New connection established.
+2024-11-21 20:10:28.892 [info] [<unknown>][dba7864a][ExtensionHostConnection] <132710> Launched Extension Host Process.
+2024-11-21 20:10:59.313 [info] [<unknown>][d43d0d06][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 20:10:59.369 [info] [<unknown>][715af69e][ExtensionHostConnection] <131087> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 20:11:04.679 [info] [<unknown>][5d61154e][ExtensionHostConnection] New connection established.
+2024-11-21 20:11:04.682 [info] [<unknown>][5d61154e][ExtensionHostConnection] <132970> Launched Extension Host Process.
+2024-11-21 20:11:04.685 [info] [<unknown>][1f27419b][ManagementConnection] New connection established.
