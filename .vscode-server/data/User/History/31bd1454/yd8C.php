@@ -197,11 +197,11 @@ if (!$conn) {
 
     <div class="tab-contents">
         <div class="tab-content" id="info">
-            <img src="img/롤/롤 대회정보.png" alt="대회정보" class="bracket-image">
+            <img src="img/롤/롤 대회정보.png" alt="대진표" class="bracket-image">
         </div>
         <div class="tab-content" id="date">
-            <img src="img/롤/롤 일정.png" alt="일정" class="bracket-image">
-            <img src="img/롤/롤 일정2.png" alt="일정2" class="bracket-image">
+            <img src="img/롤/롤 일정.png" alt="대진표" class="bracket-image">
+            <img src="img/롤/롤 일정2.png" alt="대진표" class="bracket-image">
         </div>
         <div class="tab-content" id="rule">
             <p>대회규정 & 진행방식</p>
