@@ -35,3 +35,4 @@ Last EH closed, waiting before shutting down
 [21:36:51] [<unknown>][34de8bea][ExtensionHostConnection] New connection established.
 [21:36:51] [<unknown>][34de8bea][ExtensionHostConnection] <178083> Launched Extension Host Process.
 [21:36:51] [<unknown>][caa1bc00][ManagementConnection] New connection established.
+[21:38:05] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

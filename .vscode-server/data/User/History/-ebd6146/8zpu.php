@@ -164,13 +164,8 @@ oci_close($conn);
     <h1 style="margin-bottom: 50px;">마이페이지</h1>
 
     <!-- 신청한 대회 -->
-    <h2>
-    신청한 대회
-        <span style="font-size: 14px; color: #dc3545; margin-left: 10px;">
-        * 수정사항이 있으면 취소하고 다시 신청해주세요!
-        </span>
-    </h2>
-    <table style="margin-top: 20px;">
+    <h2>신청한 대회</h2>
+    <table>
         <thead>
             <tr>
                 <th>대회 이름</th>
@@ -215,7 +210,7 @@ oci_close($conn);
 
     <!-- 프로필 정보 -->
     <h2>프로필 정보</h2>
-    <table style="margin-top: 20px;">
+    <table>
         <tr>
             <th>이름</th>
             <td><input type="text" value="<?php echo htmlspecialchars($profile['NAME']); ?>" readonly></td>

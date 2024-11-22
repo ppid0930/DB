@@ -161,78 +161,61 @@ oci_close($conn);
 </head>
 <body>
     <div class="container">
-    <h1 style="margin-bottom: 50px;">마이페이지</h1>
+        <h1>마이페이지</h1>
 
-    <!-- 신청한 대회 -->
-    <h2>
-    신청한 대회
-        <span style="font-size: 14px; color: #dc3545; margin-left: 10px;">
-        * 수정사항이 있으면 취소하고 다시 신청해주세요!
-        </span>
-    </h2>
-    <table style="margin-top: 20px;">
-        <thead>
-            <tr>
-                <th>대회 이름</th>
-                <th>상태</th>
-                <th>취소</th>
-            </tr>
-        </thead>
-        <tbody>
-            <?php
-            // 대회 ID와 대회 이름 매핑
-            $game_names = [
-                1 => "League of Legend",
-                2 => "BattleGround",
-                3 => "FIFA Online 4"
-            ];
-
-            if (count($games) > 0):
-                foreach ($games as $game):
-                    $game_name = isset($game_names[$game['game_id']]) ? $game_names[$game['game_id']] : "Unknown";
-            ?>
-                    <tr>
-                        <td><?php echo htmlspecialchars($game_name); ?></td>
-                        <td><?php echo htmlspecialchars($game['status']); ?></td>
-                        <td>
-                            <form action="cancel_participation.php" method="post" style="margin:0;">
-                                <input type="hidden" name="user_id" value="<?php echo htmlspecialchars($user_id); ?>">
-                                <input type="hidden" name="game_id" value="<?php echo htmlspecialchars($game['game_id']); ?>">
-                                <button type="submit" class="btn btn-delete">취소하기</button>
-                            </form>
-                        </td>
-                    </tr>
-            <?php
-                endforeach;
-            else:
-            ?>
+        <!-- 신청한 대회 -->
+        <h2>신청한 대회</h2>
+        <table>
+            <thead>
                 <tr>
-                    <td colspan="3">신청한 대회가 없습니다.</td>
+                    <th>대회 이름</th>
+                    <th>상태</th>
+                    <th>취소</th>
                 </tr>
-            <?php endif; ?>
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                <?php if (count($games) > 0): ?>
+                    <?php foreach ($games as $game): ?>
+                        <tr>
+                            <td><?php echo htmlspecialchars($game['game_id']); ?></td>
+                            <td><?php echo htmlspecialchars($game['status']); ?></td>
+                            <td>
+                                <form action="cancel_participation.php" method="post" style="margin:0;">
+                                    <input type="hidden" name="user_id" value="<?php echo htmlspecialchars($user_id); ?>">
+                                    <input type="hidden" name="game_id" value="<?php echo htmlspecialchars($game['game_id']); ?>">
+                                    <button type="submit" class="btn btn-delete">취소하기</button>
+                                </form>
+                            </td>
+                        </tr>
+                    <?php endforeach; ?>
+                <?php else: ?>
+                    <tr>
+                        <td colspan="3">신청한 대회가 없습니다.</td>
+                    </tr>
+                <?php endif; ?>
+            </tbody>
+        </table>
 
-    <!-- 프로필 정보 -->
-    <h2>프로필 정보</h2>
-    <table style="margin-top: 20px;">
-        <tr>
-            <th>이름</th>
-            <td><input type="text" value="<?php echo htmlspecialchars($profile['NAME']); ?>" readonly></td>
-        </tr>
-        <tr>
-            <th>학과</th>
-            <td><input type="text" value="<?php echo htmlspecialchars($profile['DEPT']); ?>" readonly></td>
-        </tr>
-        <tr>
-            <th>이메일</th>
-            <td><input type="text" value="<?php echo htmlspecialchars($profile['E_MAIL']); ?>" readonly></td>
-        </tr>
-        <tr>
-            <th>전화번호</th>
-            <td><input type="text" value="<?php echo htmlspecialchars($profile['TEL']); ?>" readonly></td>
-        </tr>
-    </table>
+        <!-- 프로필 정보 -->
+        <h2>프로필 정보</h2>
+        <table>
+            <tr>
+                <th>이름</th>
+                <td><input type="text" value="<?php echo htmlspecialchars($profile['NAME']); ?>" readonly></td>
+            </tr>
+            <tr>
+                <th>학과</th>
+                <td><input type="text" value="<?php echo htmlspecialchars($profile['DEPT']); ?>" readonly></td>
+            </tr>
+            <tr>
+                <th>이메일</th>
+                <td><input type="text" value="<?php echo htmlspecialchars($profile['E_MAIL']); ?>" readonly></td>
+            </tr>
+            <tr>
+                <th>전화번호</th>
+                <td><input type="text" value="<?php echo htmlspecialchars($profile['TEL']); ?>" readonly></td>
+            </tr>
+        </table>
 
         <!-- 수정하기 및 탈퇴하기 버튼 -->
         <div class="button-group">
@@ -240,5 +223,5 @@ oci_close($conn);
             <button class="btn btn-delete" onclick="if(confirm('정말 탈퇴하시겠습니까?')) window.location.href='delete_profile.php'">탈퇴하기</button>
         </div>
     </div>
-    </body>
+</body>
 </html>

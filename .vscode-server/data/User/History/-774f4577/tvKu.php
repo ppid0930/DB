@@ -23,8 +23,8 @@ session_destroy();
 $referer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '';
 
 // 마이페이지에서 요청한 경우 메인페이지로 이동
-if (strpos($referer, 'mypage.php') !== false || strpos($referer, 'edit_profile.php') !== false) {
-    header('Location: mainpage.php'); // 메인페이지로 리디렉션
+if (strpos($referer, 'mypage.php') !== false) {
+    header('Location: main.php'); // 메인페이지로 리디렉션
     exit;
 }
 
@@ -33,7 +33,7 @@ if (!empty($referer)) {
     header("Location: $referer");
 } else {
     // 이전 페이지 정보가 없는 경우 메인페이지로 이동
-    header('Location: mainpage.php');
+    header('Location: main.php');
 }
 exit;
 ?>
