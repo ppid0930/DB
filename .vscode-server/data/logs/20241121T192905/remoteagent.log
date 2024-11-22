@@ -175,3 +175,9 @@
 2024-11-21 20:30:00.860 [info] [<unknown>][e4c778b7][ManagementConnection] New connection established.
 2024-11-21 20:30:00.866 [info] [<unknown>][7aba2e98][ExtensionHostConnection] New connection established.
 2024-11-21 20:30:00.880 [info] [<unknown>][7aba2e98][ExtensionHostConnection] <136995> Launched Extension Host Process.
+2024-11-21 21:13:23.223 [info] [<unknown>][dbb3a871][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 21:13:23.286 [info] [<unknown>][dba7864a][ExtensionHostConnection] <132710> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 22:48:05.254 [info] [<unknown>][e4c778b7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 22:48:07.311 [info] [<unknown>][7aba2e98][ExtensionHostConnection] <136995> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 22:48:07.312 [info] Last EH closed, waiting before shutting down
+2024-11-21 22:53:07.312 [info] Last EH closed, shutting down
