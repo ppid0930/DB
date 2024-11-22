@@ -14,3 +14,8 @@
 2024-11-22 21:36:51.687 [info] [<unknown>][34de8bea][ExtensionHostConnection] New connection established.
 2024-11-22 21:36:51.695 [info] [<unknown>][34de8bea][ExtensionHostConnection] <178083> Launched Extension Host Process.
 2024-11-22 21:36:51.697 [info] [<unknown>][caa1bc00][ManagementConnection] New connection established.
+2024-11-22 21:38:05.773 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-22 21:41:41.617 [info] New EH opened, aborting shutdown
+2024-11-22 21:41:41.786 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
