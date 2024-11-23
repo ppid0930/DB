@@ -1,0 +1,44 @@
+put mypage edit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch jhw
+# Your branch is up to date with 'origin/jhw'.
+#
+# Changes to be committed:
+#	modified:   .vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt
+#	new file:   .vscode-server/data/User/History/-2ae5585a/BLZn.php
+#	new file:   .vscode-server/data/User/History/-2ae5585a/FN65.php
+#	new file:   .vscode-server/data/User/History/-2ae5585a/entries.json
+#	new file:   .vscode-server/data/User/History/-2ae5585a/o4Hu.php
+#	new file:   .vscode-server/data/User/History/-774f4577/0SF5.php
+#	new file:   .vscode-server/data/User/History/-774f4577/BvtO.php
+#	new file:   .vscode-server/data/User/History/-774f4577/entries.json
+#	new file:   .vscode-server/data/User/History/-774f4577/tvKu.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/5bTx.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/8zpu.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/D4CV.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/UNWW.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/ViTF.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/dhfZ.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/entries.json
+#	new file:   .vscode-server/data/User/History/-ebd6146/i1hJ.php
+#	new file:   .vscode-server/data/User/History/-ebd6146/ywsX.php
+#	new file:   .vscode-server/data/User/History/504886c5/OZRr
+#	modified:   .vscode-server/data/User/History/504886c5/entries.json
+#	new file:   .vscode-server/data/User/History/510efb7b/7nSE.php
+#	new file:   .vscode-server/data/User/History/510efb7b/entries.json
+#	new file:   .vscode-server/data/User/History/e1ce8b3/Sddp.php
+#	new file:   .vscode-server/data/User/History/e1ce8b3/entries.json
+#	new file:   .vscode-server/data/User/History/e1ce8b3/yWzn.php
+#	modified:   .vscode-server/data/logs/20241122T213627/exthost2/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20241122T213627/remoteagent.log
+#	new file:   cancel_participation.php
+#	new file:   edit_profile.php
+#	modified:   logout.php
+#	modified:   mypage.php
+#	new file:   save_profile.php
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20241122T213627/exthost2/vscode.git/Git.log
+#

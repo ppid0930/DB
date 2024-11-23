@@ -1,0 +1,79 @@
+2024-11-23 17:09:57.324 [info] 
+
+
+
+
+2024-11-23 17:09:57.324 [info] Extension host agent started.
+2024-11-23 17:09:57.423 [info] [<unknown>][b39fc38c][ExtensionHostConnection] New connection established.
+2024-11-23 17:09:57.440 [info] [<unknown>][36bb7330][ManagementConnection] New connection established.
+2024-11-23 17:09:57.519 [info] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Launched Extension Host Process.
+2024-11-23 17:09:57.555 [info] [<unknown>][b39fc38c][ExtensionHostConnection] <197165><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 17:14:57.212 [info] New EH opened, aborting shutdown
+2024-11-23 18:43:47.510 [info] [<unknown>][36bb7330][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 18:43:49.768 [info] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 18:43:49.768 [info] Last EH closed, waiting before shutting down
+2024-11-23 18:45:47.244 [info] [<unknown>][a7878c58][ManagementConnection] New connection established.
+2024-11-23 18:45:47.255 [info] [<unknown>][ab8e35a7][ExtensionHostConnection] New connection established.
+2024-11-23 18:45:47.270 [info] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739> Launched Extension Host Process.
+2024-11-23 18:45:47.543 [info] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 18:48:49.772 [info] New EH opened, aborting shutdown
+2024-11-23 18:48:49.787 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-23 19:05:23.467 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-23 19:44:13.592 [info] [<unknown>][a7878c58][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 19:44:15.646 [info] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 19:44:15.647 [info] Last EH closed, waiting before shutting down
+2024-11-23 19:48:19.897 [info] [<unknown>][016bd4af][ExtensionHostConnection] New connection established.
+2024-11-23 19:48:19.905 [info] [<unknown>][016bd4af][ExtensionHostConnection] <218452> Launched Extension Host Process.
+2024-11-23 19:48:19.905 [info] [<unknown>][dcaaba84][ManagementConnection] New connection established.
+2024-11-23 19:48:19.946 [info] [<unknown>][016bd4af][ExtensionHostConnection] <218452><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 19:48:22.111 [error] CodeExpectedError: Could not find pty 2 on pty host
+    at I.W (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-23 19:48:32.369 [info] [<unknown>][dcaaba84][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 19:48:34.463 [info] [<unknown>][016bd4af][ExtensionHostConnection] <218452> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 19:48:34.463 [info] Cancelling previous shutdown timeout
+2024-11-23 19:48:34.463 [info] Last EH closed, waiting before shutting down
+2024-11-23 19:49:16.842 [info] [<unknown>][719519b5][ManagementConnection] New connection established.
+2024-11-23 19:49:16.848 [info] [<unknown>][cb4275b6][ExtensionHostConnection] New connection established.
+2024-11-23 19:49:16.861 [info] [<unknown>][cb4275b6][ExtensionHostConnection] <218611> Launched Extension Host Process.
+2024-11-23 19:49:16.896 [info] [<unknown>][cb4275b6][ExtensionHostConnection] <218611><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 19:53:34.464 [info] New EH opened, aborting shutdown
+2024-11-23 21:15:29.886 [info] [<unknown>][719519b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 21:15:31.966 [info] [<unknown>][cb4275b6][ExtensionHostConnection] <218611> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 21:15:31.967 [info] Last EH closed, waiting before shutting down
+2024-11-23 21:18:09.260 [info] [<unknown>][71e7c0df][ManagementConnection] New connection established.
+2024-11-23 21:18:09.269 [info] [<unknown>][e685de6b][ExtensionHostConnection] New connection established.
+2024-11-23 21:18:09.279 [info] [<unknown>][e685de6b][ExtensionHostConnection] <227292> Launched Extension Host Process.
+2024-11-23 21:18:09.315 [info] [<unknown>][e685de6b][ExtensionHostConnection] <227292><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 21:18:12.454 [error] CodeExpectedError: Could not find pty 1 on pty host
+    at I.W (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
