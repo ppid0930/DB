@@ -5,34 +5,28 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to /tmp/code-e08e5d4f-5bff-41fc-bb68-6479e8de4889
-Extension host agent listening on /tmp/code-e08e5d4f-5bff-41fc-bb68-6479e8de4889
+Server bound to /tmp/code-2eb62047-6b0b-4f43-a739-bcfcd13795df
+Extension host agent listening on /tmp/code-2eb62047-6b0b-4f43-a739-bcfcd13795df
 
-[21:36:27] 
-
-
+[17:09:57] 
 
 
-[21:36:28] Extension host agent started.
-[21:36:28] [<unknown>][60d1ee27][ManagementConnection] New connection established.
-[21:36:28] [<unknown>][97c96b31][ExtensionHostConnection] New connection established.
-Generating translation files failed. Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/nls.keys.json'
-    at async open (node:internal/fs/promises:639:25)
-    at async Object.readFile (node:internal/fs/promises:1242:14)
-    at async Nv (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:3:16834) {
-  errno: -2,
-  code: 'ENOENT',
-  syscall: 'open',
-  path: '/var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/nls.keys.json'
-}
-[21:36:28] [<unknown>][97c96b31][ExtensionHostConnection] <177959> Launched Extension Host Process.
-[21:36:39] [<unknown>][60d1ee27][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[21:36:41] [<unknown>][97c96b31][ExtensionHostConnection] <177959> Extension Host Process exited with code: 0, signal: null.
-Cancelling previous shutdown timeout
-[21:36:41] Cancelling previous shutdown timeout
+
+
+[17:09:57] Extension host agent started.
+[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] New connection established.
+[17:09:57] [<unknown>][36bb7330][ManagementConnection] New connection established.
+[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Launched Extension Host Process.
+[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] <197165><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+New EH opened, aborting shutdown
+[17:14:57] New EH opened, aborting shutdown
+[18:43:47] [<unknown>][36bb7330][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:43:49] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[21:36:41] Last EH closed, waiting before shutting down
-[21:36:51] [<unknown>][34de8bea][ExtensionHostConnection] New connection established.
-[21:36:51] [<unknown>][34de8bea][ExtensionHostConnection] <178083> Launched Extension Host Process.
-[21:36:51] [<unknown>][caa1bc00][ManagementConnection] New connection established.
-[21:38:05] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[18:43:49] Last EH closed, waiting before shutting down
+[18:45:47] [<unknown>][a7878c58][ManagementConnection] New connection established.
+[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] New connection established.
+[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739> Launched Extension Host Process.
+[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+

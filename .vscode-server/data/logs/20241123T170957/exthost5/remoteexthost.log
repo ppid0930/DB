@@ -1,0 +1,37 @@
+2024-11-23 21:18:10.169 [info] Extension host with pid 227292 started
+2024-11-23 21:18:10.180 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/0a42fcde4b5af9f4112907c948b9d57e/vscode.lock': Lock acquired.
+2024-11-23 21:18:11.026 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-11-23 21:18:11.028 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-23 21:18:11.028 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-23 21:18:11.029 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: '*', root cause: Oracle.oracledevtools
+2024-11-23 21:18:11.545 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2024-11-23 21:18:12.389 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-23 21:18:12.389 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-23 21:18:12.569 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-23 21:18:12.570 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-23 21:18:12.571 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-23 21:18:12.726 [error] CodeExpectedError: 사용자 설정에 쓸 수 없습니다. 사용자 설정을 열어 오류/경고를 수정하고 다시 시도하세요.
+    at knt.y (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:11662)
+    at knt.o (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9130)
+    at knt.n (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9021)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:8771)
+2024-11-23 21:18:13.010 [error] CodeExpectedError: 사용자 설정에 쓸 수 없습니다. 사용자 설정을 열어 오류/경고를 수정하고 다시 시도하세요.
+    at knt.y (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:11662)
+    at knt.o (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9130)
+    at knt.n (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9021)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:8771)
+2024-11-23 21:18:13.224 [error] CodeExpectedError: 사용자 설정에 쓸 수 없습니다. 사용자 설정을 열어 오류/경고를 수정하고 다시 시도하세요.
+    at knt.y (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:11662)
+    at knt.o (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9130)
+    at knt.n (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9021)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:8771)
+2024-11-23 21:18:13.264 [error] CodeExpectedError: 사용자 설정에 쓸 수 없습니다. 사용자 설정을 열어 오류/경고를 수정하고 다시 시도하세요.
+    at knt.y (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:11662)
+    at knt.o (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9130)
+    at knt.n (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:9021)
+    at async Object.factory (vscode-file://vscode-app/c:/Users/kosw1/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:3088:8771)
+2024-11-23 21:18:13.283 [info] Eager extensions activated
+2024-11-23 21:18:13.283 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-23 21:18:13.283 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-23 21:18:13.283 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-23 21:18:13.284 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

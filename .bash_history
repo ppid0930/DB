@@ -85,3 +85,9 @@ git pull origin main
 git prune
 git pull origin main
 git push origin jong
+git branch
+git push origin jhw
+git branch
+git push origin jhw
+git
+git branch
