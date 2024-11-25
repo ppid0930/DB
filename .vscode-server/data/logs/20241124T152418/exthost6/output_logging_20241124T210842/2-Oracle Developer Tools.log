@@ -1,0 +1,9 @@
+Information:2024. 11. 24. 오후 9:08:44:Activating Extension...
+Information:2024. 11. 24. 오후 9:08:44:Language Server ready (Microsoft.NETCore.App 8.0.11)!
+Information:2024. 11. 24. 오후 9:08:44:Oracle Developer Tools for VS Code activated!
+Information:2024. 11. 24. 오후 9:11:55:Error opening connection 'DB502_PROJ_G2.orcl'. 
+Details: ORA-01017: invalid username/password; logon denied
+https://docs.oracle.com/error-help/db/ora-01017/. 
+Network config file location: /var/www/html/2_team/2_team2/Oracle/network/admin
+
+[Error - 오후 9:14:19] Stopping server timed out
