@@ -1,0 +1,137 @@
+2024. 11. 23. 오후 11:37:38 DotnetWSLCheckEvent
+true
+Checking if system is WSL. OS: linux
+
+2024. 11. 23. 오후 11:37:38 DotnetWSLOperationOutputEvent
+The output of the WSL check:
+stdout: 
+stderr: 
+status: 1
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-ko for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension Oracle.oracledevtools for .NET installation requests
+
+2024. 11. 23. 오후 11:37:38 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests

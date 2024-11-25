@@ -5,28 +5,80 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to /tmp/code-2eb62047-6b0b-4f43-a739-bcfcd13795df
-Extension host agent listening on /tmp/code-2eb62047-6b0b-4f43-a739-bcfcd13795df
+Server bound to /tmp/code-38993f40-161d-49aa-b1b8-25795e01a19a
+Extension host agent listening on /tmp/code-38993f40-161d-49aa-b1b8-25795e01a19a
 
-[17:09:57] 
-
-
+[13:55:00] 
 
 
-[17:09:57] Extension host agent started.
-[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] New connection established.
-[17:09:57] [<unknown>][36bb7330][ManagementConnection] New connection established.
-[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Launched Extension Host Process.
-[17:09:57] [<unknown>][b39fc38c][ExtensionHostConnection] <197165><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
 
-New EH opened, aborting shutdown
-[17:14:57] New EH opened, aborting shutdown
-[18:43:47] [<unknown>][36bb7330][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[18:43:49] [<unknown>][b39fc38c][ExtensionHostConnection] <197165> Extension Host Process exited with code: 0, signal: null.
-Last EH closed, waiting before shutting down
-[18:43:49] Last EH closed, waiting before shutting down
-[18:45:47] [<unknown>][a7878c58][ManagementConnection] New connection established.
-[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] New connection established.
-[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739> Launched Extension Host Process.
-[18:45:47] [<unknown>][ab8e35a7][ExtensionHostConnection] <210739><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
 
+[13:55:00] Extension host agent started.
+[13:55:01] [<unknown>][5282c0b7][ManagementConnection] New connection established.
+[13:55:01] [<unknown>][ab395c23][ExtensionHostConnection] New connection established.
+[13:55:01] [<unknown>][ab395c23][ExtensionHostConnection] <132779> Launched Extension Host Process.
+[13:57:51] [<unknown>][2f37ba95][ManagementConnection] New connection established.
+[13:57:51] [<unknown>][ffab1f42][ExtensionHostConnection] New connection established.
+Generating translation files failed. Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/nls.keys.json'
+    at async open (node:internal/fs/promises:639:25)
+    at async Object.readFile (node:internal/fs/promises:1242:14)
+    at async Nv (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:3:16834)
+    at async o8 (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:67:36551)
+    at async jh.start (file:///var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:67:39717) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/nls.keys.json'
+}
+[13:57:51] [<unknown>][ffab1f42][ExtensionHostConnection] <133408> Launched Extension Host Process.
+[13:58:18] [<unknown>][80241f53][ExtensionHostConnection] New connection established.
+[13:58:18] [<unknown>][80241f53][ExtensionHostConnection] <133792> Launched Extension Host Process.
+[13:58:18] [<unknown>][b12d8fae][ManagementConnection] New connection established.
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 157
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 158
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 159
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 160
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 161
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 162
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 163
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 164
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 165
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 166
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 167
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 168
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 169
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 170
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 171
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 172
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 173
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 174
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 175
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 176
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 177
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 178
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 179
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 180
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 181
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 182
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 183
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 184
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 185
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 186
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 187
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 188
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 189
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 190
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 191
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 192
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 193
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 194
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 195
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 196
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 197
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 198
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 199
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 200
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 201
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 202
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 203
+[13:58:32] RequestStore#acceptReply was called without receiving a matching request 204

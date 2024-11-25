@@ -1,0 +1,16 @@
+2024-11-23 23:37:37.402 [info] 
+
+
+
+
+2024-11-23 23:37:37.410 [info] Extension host agent started.
+2024-11-23 23:37:37.450 [info] [<unknown>][79749690][ManagementConnection] New connection established.
+2024-11-23 23:37:37.454 [info] [<unknown>][a0a1752b][ExtensionHostConnection] New connection established.
+2024-11-23 23:37:37.500 [info] [<unknown>][a0a1752b][ExtensionHostConnection] <6417> Launched Extension Host Process.
+2024-11-23 23:37:37.548 [info] [<unknown>][a0a1752b][ExtensionHostConnection] <6417><stderr> Error reading NLS messages file /var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/var/www/html/2_team/2_team2/.vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-23 23:42:37.411 [info] New EH opened, aborting shutdown
+2024-11-23 23:49:30.669 [info] [<unknown>][79749690][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-23 23:49:32.719 [info] [<unknown>][a0a1752b][ExtensionHostConnection] <6417> Extension Host Process exited with code: 0, signal: null.
+2024-11-23 23:49:32.720 [info] Last EH closed, waiting before shutting down
+2024-11-23 23:54:32.723 [info] Last EH closed, shutting down

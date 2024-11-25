@@ -1,0 +1,55 @@
+2024-11-23 23:20:32.126 [info] [main] 로그 수준: Info
+2024-11-23 23:20:32.126 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2024-11-23 23:20:32.126 [info] [main] "2.34.1"에서 git "git"을(를) 사용하는 중
+2024-11-23 23:20:32.126 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-23 23:20:32.134 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-23 23:20:32.140 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-11-23 23:20:32.149 [info] [Model][openRepository] Opened repository: /var/www/html/2_team/2_team2
+2024-11-23 23:20:32.157 [info] > git config --get commit.template [4ms]
+2024-11-23 23:20:32.168 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.171 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.175 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-23 23:20:32.178 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-23 23:20:32.181 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.184 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.187 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.190 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.194 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-23 23:20:32.197 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-23 23:20:32.198 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-23 23:20:32.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [348ms]
+2024-11-23 23:20:32.724 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [209ms]
+2024-11-23 23:20:32.774 [info] > git ls-files --stage -- /var/www/html/2_team/2_team2/board_write.php [17ms]
+2024-11-23 23:20:32.803 [info] > git check-ignore -v -z --stdin [76ms]
+2024-11-23 23:20:32.848 [info] > git cat-file -s 0687fadee009738f5bf03747183511f44d3ccd7e [70ms]
+2024-11-23 23:20:32.849 [info] > git show --textconv :board_write.php [94ms]
+2024-11-23 23:20:33.375 [info] > git status -z -uall [863ms]
+2024-11-23 23:20:33.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [5ms]
+2024-11-23 23:20:33.390 [info] > git config --get commit.template [4ms]
+2024-11-23 23:20:33.391 [info] > git config --local branch.jhw.vscode-merge-base [2ms]
+2024-11-23 23:20:33.391 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-23 23:20:33.398 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [2ms]
+2024-11-23 23:20:33.408 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-23 23:20:33.485 [info] > git status -z -uall [85ms]
+2024-11-23 23:20:33.491 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [2ms]
+2024-11-23 23:20:33.494 [info] > git config --local branch.jhw.vscode-merge-base [1ms]
+2024-11-23 23:20:33.494 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-23 23:20:33.537 [info] > git ls-files --stage -- /var/www/html/2_team/2_team2/write_process.php [7ms]
+2024-11-23 23:20:33.620 [info] > git reflog jhw --grep-reflog=branch: Created from *. [227ms]
+2024-11-23 23:20:33.622 [info] > git reflog jhw --grep-reflog=branch: Created from *. [126ms]
+2024-11-23 23:20:33.625 [info] > git reflog HEAD --grep-reflog=checkout: moving from .* to jhw [3ms]
+2024-11-23 23:20:33.628 [info] > git reflog HEAD --grep-reflog=checkout: moving from .* to jhw [4ms]
+2024-11-23 23:20:33.631 [info] > git show --textconv :write_process.php [103ms]
+2024-11-23 23:20:33.631 [info] > git cat-file -s 1af05d62dfe8b77d0c2127d51f6dc872b5542a72 [92ms]
+2024-11-23 23:20:33.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-23 23:20:33.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-23 23:20:33.663 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [29ms]
+2024-11-23 23:20:33.663 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-23 23:20:33.663 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-23 23:20:33.666 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [30ms]
+2024-11-23 23:20:33.666 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-23 23:20:33.666 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-23 23:20:33.669 [info] > git merge-base refs/heads/jhw refs/remotes/origin/jhw [4ms]
+2024-11-23 23:20:33.672 [info] > git merge-base refs/heads/jhw refs/remotes/origin/jhw [4ms]
+2024-11-23 23:20:33.674 [info] > git diff --name-status -z --diff-filter=ADMR e7a47e12663b2a64afed8cfd125a9811ae58663d...refs/remotes/origin/jhw [2ms]
+2024-11-23 23:20:33.676 [info] > git diff --name-status -z --diff-filter=ADMR e7a47e12663b2a64afed8cfd125a9811ae58663d...refs/remotes/origin/jhw [2ms]

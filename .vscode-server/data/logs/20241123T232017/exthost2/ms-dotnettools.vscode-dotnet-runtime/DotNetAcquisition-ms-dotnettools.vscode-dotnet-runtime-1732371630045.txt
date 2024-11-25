@@ -1,0 +1,266 @@
+2024. 11. 23. 오후 11:20:30 DotnetWSLCheckEvent
+true
+Checking if system is WSL. OS: linux
+
+2024. 11. 23. 오후 11:20:30 DotnetWSLOperationOutputEvent
+The output of the WSL check:
+stdout: 
+stderr: 
+status: 1
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-ko for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension Oracle.oracledevtools for .NET installation requests
+
+2024. 11. 23. 오후 11:20:30 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+2024. 11. 23. 오후 11:20:31 DotnetAcquisitionRequested
+8.0
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+
+2024. 11. 23. 오후 11:20:31 DotnetRuntimeAcquisitionRequested
+8.0
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+runtime
+
+2024. 11. 23. 오후 11:20:31 WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+2024. 11. 23. 오후 11:20:32 DotnetVersionResolutionCompleted
+8.0
+8.0.11
+
+2024. 11. 23. 오후 11:20:32 DotnetInstallIdCreatedEvent
+true
+The requested version 8.0.11 is now marked under the install: {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"}.
+
+2024. 11. 23. 오후 11:20:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-23T14:20:32.105Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 23. 오후 11:20:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-23T14:20:32.106Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 23. 오후 11:20:32 FoundTrackingVersions
+true
+installing :
+
+
+2024. 11. 23. 오후 11:20:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-23T14:20:32.128Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+2024. 11. 23. 오후 11:20:32 FoundTrackingVersions
+true
+installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 23. 오후 11:20:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-23T14:20:32.129Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 23. 오후 11:20:32 DotnetInstallationValidated
+8.0.11~x64
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+
+2024. 11. 23. 오후 11:20:32 DotnetAcquisitionAlreadyInstalled
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+
+2024. 11. 23. 오후 11:20:32 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-11-23T14:20:32.130Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 23. 오후 11:20:32 RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} with id installed from the state.
+
+2024. 11. 23. 오후 11:20:32 FoundTrackingVersions
+true
+installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 23. 오후 11:20:32 AddTrackingVersions
+true
+Updated installed :
+{"installId":"8.0.11~x64","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by Oracle.oracledevtools
+
+
+2024. 11. 23. 오후 11:20:32 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-11-23T14:20:32.218Z
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/var/www/html/2_team/2_team2/.vscode-server/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+2024. 11. 23. 오후 11:20:32 DotnetCommandSucceeded
+acquire
+
+2024. 11. 23. 오후 11:20:32 DotnetAcquisitionTotalSuccessEvent
+8.0.11
+8.0.11~x64
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+982615222cd7a2f6053a7ccefce928d44b4e557d8e1db514f6d6c3ea75726db8
+/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet
+
+2024. 11. 23. 오후 11:20:32 DotnetRuntimeAcquisitionTotalSuccessEvent
+8.0.11~x64
+8.0.11
+x64
+false
+runtime
+
+2024. 11. 23. 오후 11:20:32 DotnetCommandSucceeded
+ensureDependencies

@@ -1,0 +1,7 @@
+Information:2024. 11. 23. 오후 11:20:31:Activating Extension...
+Error:2024. 11. 23. 오후 11:20:31:{"code":127,"killed":false,"signal":null,"cmd":"dotnet --list-runtimes","stdout":"","stderr":"/bin/sh: 1: dotnet: not found\n"}
+Information:2024. 11. 23. 오후 11:20:31:Downloading .NET Runtime...
+Information:2024. 11. 23. 오후 11:20:32:Downloaded and Installed .NET Runtime at '/var/www/html/2_team/2_team2/.vscode-server/data/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64/dotnet'.
+Information:2024. 11. 23. 오후 11:20:34:Language Server ready (Microsoft.NETCore.App 8.0.11)!
+Information:2024. 11. 23. 오후 11:20:34:Oracle Developer Tools for VS Code activated!
+[Error - 오후 11:20:38] Stopping server timed out
