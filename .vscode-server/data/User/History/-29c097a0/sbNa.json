@@ -1,0 +1,45 @@
+{
+  "git.openRepositoryInParentFolders": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\panda\\Oracle\\network\\admin",
+  "[oraclesql]": {
+    "editor.suggest.showSnippets": true,
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\panda\\Oracle\\network\\admin",
+  "oracledevtools.bookmarkFileFolder": "C:\\Users\\panda\\Oracle\\oracle.oracledevtools",
+  "oracledevtools.download.otherFolder": "C:\\Users\\panda\\downloads",
+  "remote.SSH.remotePlatform": {
+    "203.249.87.58": "linux"
+  },
+  "oracledevtools.connections": [
+    {
+      "authenticationType": 2,
+      "dBAPrivilege": "None",
+      "userID": "DB502_PROJ_G2",
+      "passwordSaved": false,
+      "dataSource": "203.249.87.57:1521/orcl",
+      "connectionType": 2,
+      "databaseHostName": "203.249.87.57",
+      "databasePortNumber": "1521",
+      "databaseServiceName": "orcl",
+      "tnsAdmin": "C:\\Users\\panda\\Oracle\\network\\admin",
+      "name": "DB502_PROJ_G2.orcl",
+      "color": "none",
+      "currentSchema": "",
+      "addSettingsScopeToConnectionName": false,
+      "addCurrentSchemaToConnectionName": false,
+      "filters": [],
+      "useCompatibleNamesDirectoryPath": true
+    }
+  ],
+  "database-client.autoSync": true,
+  "php.validate.executablePath": "",
+  "editor.fontSize": 17
+}
