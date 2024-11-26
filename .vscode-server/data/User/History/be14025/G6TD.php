@@ -50,6 +50,25 @@ if (!$profile) {
 
 oci_free_statement($stmt_profile);
 
+// 게시글 정보 가져오기
+$sql_posts = "SELECT write_id , content_name , TO_CHAR(CREATED_AT, 'YYYY-MM-DD') AS created_at
+              FROM WRITE
+              WHERE USER_ID = :user_id 
+              ORDER BY CREATED_AT DESC";
+
+$stmt_posts = oci_parse($conn, $sql_posts);
+oci_bind_by_name($stmt_posts, ':user_id', $user_id);
+
+if (!oci_execute($stmt_posts)) {
+    die("게시글 정보를 가져올 수 없습니다: " . htmlspecialchars(oci_error($stmt_posts)['message']));
+}
+
+$posts = [];
+while ($row = oci_fetch_assoc($stmt_posts)) {
+    $posts[] = $row; // 데이터를 배열에 추가
+}
+oci_free_statement($stmt_posts);
+
 // 참가 신청한 대회 정보 가져오기
 $sql_games = "SELECT GAME_ID, NVL(TEAM_NAME, '개인') AS TEAM_NAME
               FROM PARTICIPANT
@@ -192,15 +211,14 @@ oci_close($conn);
             if (count($games) > 0):
                 foreach ($games as $game):
                     $game_name = isset($game_names[$game['game_id']]) ? $game_names[$game['game_id']] : "Unknown";
-                    // 팀명이 null이거나 빈 값이면 "개인"으로 표시
-                    $team_name = !empty($game['team_name']) ? $game['team_name'] : "개인";
+                    $team_name = !empty($game['team_name']) ? $game['team_name'] : "개인"; // 빈 값 처리 추가
             ?>
                     <tr>
                         <td><?php echo htmlspecialchars($game_name); ?></td>
                         <td><?php echo htmlspecialchars($team_name); ?></td>
                         <td><?php echo htmlspecialchars($game['status']); ?></td>
                         <td>
-                            <form action="cancel_participation.php" method="post" style="margin:0;">
+                            <form action="cancel_participation.php" method="post">
                                 <input type="hidden" name="user_id" value="<?php echo htmlspecialchars($user_id); ?>">
                                 <input type="hidden" name="game_id" value="<?php echo htmlspecialchars($game['game_id']); ?>">
                                 <button type="submit" class="btn btn-delete">취소하기</button>
@@ -218,6 +236,39 @@ oci_close($conn);
         </tbody>
     </table>
 
+    <!-- 내가 쓴 게시글 -->
+    <h2>내가 쓴 게시글</h2>
+    <table style="margin-top: 20px;">
+        <thead>
+            <tr>
+                <th>제목</th>
+                <th>작성일</th>
+                <th>삭제</th>
+            </tr>
+        </thead>
+        <tbody>
+            <?php if (count($posts) > 0): ?>
+                <?php foreach ($posts as $post): ?>
+                    <tr>
+                        <td><?php echo htmlspecialchars($post['CONTENT_NAME']); ?></td>
+                        <td><?php echo htmlspecialchars($post['CREATED_AT']); ?></td>
+                        <td>
+                            <form action="delete_post.php" method="post">
+                                <input type="hidden" name="write_id" value="<?php echo htmlspecialchars($post['WRITE_ID']); ?>">
+                                <input type="hidden" name="user_id" value="<?php echo htmlspecialchars($user_id); ?>">
+                                <button type="submit" class="btn-delete">삭제하기</button>
+                            </form>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+            <?php else: ?>
+                <tr>
+                    <td colspan="3">작성한 게시글이 없습니다.</td>
+                </tr>
+            <?php endif; ?>
+        </tbody>
+    </table>
+    
     <!-- 프로필 정보 -->
     <h2>프로필 정보</h2>
     <table style="margin-top: 20px;">
@@ -242,7 +293,7 @@ oci_close($conn);
         <!-- 수정하기 및 탈퇴하기 버튼 -->
         <div class="button-group">
             <button class="btn btn-edit" onclick="window.location.href='edit_profile.php'">수정하기</button>
-            <button class="btn btn-delete" onclick="if(confirm('정말 탈퇴하시겠습니까?')) window.location.href='delete_profile.php'">탈퇴하기</button>
+            <button class="btn btn-delete" onclick="if(confirm('정말 탈퇴하시겠습니까?')) window.location.href='deleteprocess.php'">탈퇴하기</button>
         </div>
     </div>
     </body>

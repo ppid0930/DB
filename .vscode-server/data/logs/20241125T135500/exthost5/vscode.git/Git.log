@@ -1,0 +1,41 @@
+2024-11-25 14:05:18.546 [info] [main] 로그 수준: Info
+2024-11-25 14:05:18.546 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2024-11-25 14:05:18.546 [info] [main] "2.34.1"에서 git "git"을(를) 사용하는 중
+2024-11-25 14:05:18.546 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-25 14:05:18.546 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 14:05:18.546 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-11-25 14:05:18.546 [info] [Model][openRepository] Opened repository: /var/www/html/2_team/2_team2
+2024-11-25 14:05:18.550 [info] > git config --get commit.template [4ms]
+2024-11-25 14:05:18.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [3ms]
+2024-11-25 14:05:18.561 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-25 14:05:18.569 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-25 14:05:18.570 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 14:05:18.580 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.584 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.588 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.592 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.596 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.600 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.604 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 14:05:18.607 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 14:05:18.610 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (1), parent repositories (0), unsafe repositories (0)
+2024-11-25 14:05:18.643 [info] > git status -z -uall [87ms]
+2024-11-25 14:05:18.655 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [4ms]
+2024-11-25 14:05:18.659 [info] > git config --get commit.template [3ms]
+2024-11-25 14:05:18.661 [info] > git config --local branch.jhw.vscode-merge-base [3ms]
+2024-11-25 14:05:18.661 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-25 14:05:18.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/jhw refs/remotes/jhw [3ms]
+2024-11-25 14:05:18.670 [info] > git reflog jhw --grep-reflog=branch: Created from *. [6ms]
+2024-11-25 14:05:18.673 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-25 14:05:18.684 [info] > git reflog HEAD --grep-reflog=checkout: moving from .* to jhw [11ms]
+2024-11-25 14:05:18.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-11-25 14:05:18.692 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-11-25 14:05:18.692 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-25 14:05:18.692 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-25 14:05:18.698 [info] > git merge-base refs/heads/jhw refs/remotes/origin/jhw [2ms]
+2024-11-25 14:05:18.702 [info] > git diff --name-status -z --diff-filter=ADMR 9737636c5f94e0bcd809246b99e222d049bc4914...refs/remotes/origin/jhw [2ms]
+2024-11-25 14:05:18.755 [info] > git status -z -uall [88ms]
+2024-11-25 14:05:19.429 [info] > git ls-files --stage -- /var/www/html/2_team/2_team2/add_comment.php [8ms]
+2024-11-25 14:05:19.436 [info] > git cat-file -s 0b0833cca5d4ec98ec6abb8bdf9dbb8a05d96e2a [4ms]
+2024-11-25 14:05:19.437 [info] > git show --textconv :add_comment.php [19ms]
+2024-11-25 14:05:19.660 [info] > git check-ignore -v -z --stdin [24ms]

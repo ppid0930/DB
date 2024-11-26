@@ -1,0 +1,384 @@
+commited1125
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch jhw
+# Your branch is up to date with 'origin/jhw'.
+#
+# Changes to be committed:
+#	modified:   .bash_history
+#	modified:   .vscode-server/.cli.f1a4fb101478ce6ec82fe9627c43efbf9e98c813.log
+#	modified:   .vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt
+#	modified:   .vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt
+#	new file:   .vscode-server/data/User/History/-1077b12f/DQy0.php
+#	new file:   .vscode-server/data/User/History/-1077b12f/IysD.php
+#	new file:   .vscode-server/data/User/History/-1077b12f/entries.json
+#	new file:   .vscode-server/data/User/History/-1748b32f/Zc8r.php
+#	new file:   .vscode-server/data/User/History/-1748b32f/entries.json
+#	new file:   .vscode-server/data/User/History/-1fb624b/1ekP.php
+#	new file:   .vscode-server/data/User/History/-1fb624b/HHRH.php
+#	new file:   .vscode-server/data/User/History/-1fb624b/MnIB.php
+#	new file:   .vscode-server/data/User/History/-1fb624b/ZH4w.php
+#	new file:   .vscode-server/data/User/History/-1fb624b/entries.json
+#	new file:   .vscode-server/data/User/History/-1fb624b/vCB8.php
+#	new file:   .vscode-server/data/User/History/-287481f2/YjBj.php
+#	new file:   .vscode-server/data/User/History/-287481f2/entries.json
+#	new file:   .vscode-server/data/User/History/-4393ca3/d25m.php
+#	modified:   .vscode-server/data/User/History/-4393ca3/entries.json
+#	new file:   .vscode-server/data/User/History/-4393ca3/eoz4.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/fu40.php
+#	new file:   .vscode-server/data/User/History/-4393ca3/okKX.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/0D6t.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/5i3B.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/E1gb.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/Y5KA.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/dmPP.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/dzZI.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/entries.json
+#	new file:   .vscode-server/data/User/History/-4cac35a2/wPb4.php
+#	new file:   .vscode-server/data/User/History/-4cac35a2/zMQw.php
+#	new file:   .vscode-server/data/User/History/-4f86dcce/MUmA.php
+#	modified:   .vscode-server/data/User/History/-4f86dcce/entries.json
+#	new file:   .vscode-server/data/User/History/-5cbad293/3vQk.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/4fLZ.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/7Doy.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/Djxg.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/FORY.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/OVxd.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/OfgA.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/Ua8j.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/d3bB.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/dqfe.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/entries.json
+#	new file:   .vscode-server/data/User/History/-5cbad293/heQ0.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/kFRn.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/oB9e.php
+#	new file:   .vscode-server/data/User/History/-5cbad293/olX5.php
+#	new file:   .vscode-server/data/User/History/-5f6881b1/bXrh.php
+#	new file:   .vscode-server/data/User/History/-5f6881b1/entries.json
+#	new file:   .vscode-server/data/User/History/-68a5170c/3O14.php
+#	new file:   .vscode-server/data/User/History/-68a5170c/5aNr.php
+#	new file:   .vscode-server/data/User/History/-68a5170c/Dodz.php
+#	new file:   .vscode-server/data/User/History/-68a5170c/MApw.php
+#	modified:   .vscode-server/data/User/History/-68a5170c/entries.json
+#	new file:   .vscode-server/data/User/History/-68a5170c/zj7r.php
+#	new file:   .vscode-server/data/User/History/-6c1bc615/EXtK.php
+#	new file:   .vscode-server/data/User/History/-6c1bc615/entries.json
+#	new file:   .vscode-server/data/User/History/-6c1bc615/qyfQ.php
+#	new file:   .vscode-server/data/User/History/185ced8d/DhI0.php
+#	new file:   .vscode-server/data/User/History/185ced8d/JLCF.php
+#	new file:   .vscode-server/data/User/History/185ced8d/Kjye.php
+#	new file:   .vscode-server/data/User/History/185ced8d/Or8H.php
+#	new file:   .vscode-server/data/User/History/185ced8d/QK6O.php
+#	new file:   .vscode-server/data/User/History/185ced8d/VkIY.php
+#	modified:   .vscode-server/data/User/History/185ced8d/entries.json
+#	new file:   .vscode-server/data/User/History/185ced8d/kasf.php
+#	new file:   .vscode-server/data/User/History/21b98dde/4mLK.php
+#	new file:   .vscode-server/data/User/History/21b98dde/entries.json
+#	new file:   .vscode-server/data/User/History/21b98dde/vEJN.php
+#	new file:   .vscode-server/data/User/History/43538990/6DxT.php
+#	new file:   .vscode-server/data/User/History/43538990/B1DZ.php
+#	new file:   .vscode-server/data/User/History/43538990/GLwZ.php
+#	new file:   .vscode-server/data/User/History/43538990/HFn1.php
+#	new file:   .vscode-server/data/User/History/43538990/ISH3.php
+#	new file:   .vscode-server/data/User/History/43538990/QJgu.php
+#	new file:   .vscode-server/data/User/History/43538990/TB3N.php
+#	new file:   .vscode-server/data/User/History/43538990/UnNp.php
+#	new file:   .vscode-server/data/User/History/43538990/baCB.php
+#	modified:   .vscode-server/data/User/History/43538990/entries.json
+#	new file:   .vscode-server/data/User/History/43538990/xWfh.php
+#	new file:   .vscode-server/data/User/History/449b7029/77hQ.php
+#	modified:   .vscode-server/data/User/History/449b7029/entries.json
+#	new file:   .vscode-server/data/User/History/449b7029/k2s0.php
+#	new file:   .vscode-server/data/User/History/449b7029/umTv.php
+#	new file:   .vscode-server/data/User/History/449b7029/xn7I.php
+#	new file:   .vscode-server/data/User/History/504886c5/Kcaq
+#	modified:   .vscode-server/data/User/History/504886c5/entries.json
+#	modified:   .vscode-server/data/User/History/67de7279/entries.json
+#	new file:   .vscode-server/data/User/History/67de7279/yx3u.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/02Py.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/0hw3.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/2kdH.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/2qmU.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/4YIP.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/4gOo.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/4wKW.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/56c2.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/7qxr.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/89uP.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/8OpY.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/8bFi.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/9JGH.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/9Jx9.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/BIsx.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/DawP.php
+#	renamed:    .vscode-server/data/User/History/684ff7f0/VD1Q.php -> .vscode-server/data/User/History/684ff7f0/Dco3.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/Dik2.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/ESIz.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/F6A0.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/FCmR.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/FXjo.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/GHM6.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/H6Wy.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/HK7H.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/IfeC.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/J6i4.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/JGyX.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/M20y.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/QL12.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/QsqF.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/ROwN.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/S9v5.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/SLd4.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/T7zW.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/TCEI.php
+#	renamed:    .vscode-server/data/User/History/684ff7f0/VxPY.php -> .vscode-server/data/User/History/684ff7f0/VcTL.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/WUZC.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/WopC.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/XpYa.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/Y2az.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/b4oa.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/dXKf.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/eP8J.php
+#	modified:   .vscode-server/data/User/History/684ff7f0/entries.json
+#	deleted:    .vscode-server/data/User/History/684ff7f0/eufs.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/ftcr.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/gUCY.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/gnvK.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/gpLL.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/hAUg.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/ixQj.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/k5cm.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/kbj6.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/mXDu.php
+#	renamed:    .vscode-server/data/User/History/684ff7f0/21xb.php -> .vscode-server/data/User/History/684ff7f0/mYEn.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/mwNi.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/qIwV.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/utUz.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/vH58.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/wIJX.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/wWjf.php
+#	new file:   .vscode-server/data/User/History/684ff7f0/x5jo.php
+#	deleted:    .vscode-server/data/User/History/684ff7f0/zwGY.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/4L6c.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/5i5W.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/EUKm.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/FEbn.php
+#	modified:   .vscode-server/data/User/History/72eeed7c/entries.json
+#	new file:   .vscode-server/data/User/History/72eeed7c/hES4.php
+#	new file:   .vscode-server/data/User/History/72eeed7c/yzoC.php
+#	new file:   .vscode-server/data/User/History/8844ef/SD23.php
+#	new file:   .vscode-server/data/User/History/8844ef/VroU.php
+#	new file:   .vscode-server/data/User/History/8844ef/entries.json
+#	new file:   .vscode-server/data/User/History/8844ef/smJw.php
+#	new file:   .vscode-server/data/User/History/be14025/0jWa.php
+#	new file:   .vscode-server/data/User/History/be14025/0vDC.php
+#	new file:   .vscode-server/data/User/History/be14025/1ABb.php
+#	new file:   .vscode-server/data/User/History/be14025/2uqW.php
+#	new file:   .vscode-server/data/User/History/be14025/5jkB.php
+#	new file:   .vscode-server/data/User/History/be14025/6zuV.php
+#	new file:   .vscode-server/data/User/History/be14025/7JZ2.php
+#	new file:   .vscode-server/data/User/History/be14025/8v4H.php
+#	new file:   .vscode-server/data/User/History/be14025/8wtM.php
+#	new file:   .vscode-server/data/User/History/be14025/BDcx.php
+#	new file:   .vscode-server/data/User/History/be14025/BSCQ.php
+#	new file:   .vscode-server/data/User/History/be14025/Dneu.php
+#	new file:   .vscode-server/data/User/History/be14025/FoFJ.php
+#	new file:   .vscode-server/data/User/History/be14025/GFu8.php
+#	new file:   .vscode-server/data/User/History/be14025/GrEz.php
+#	new file:   .vscode-server/data/User/History/be14025/HQQG.php
+#	new file:   .vscode-server/data/User/History/be14025/ILyR.php
+#	new file:   .vscode-server/data/User/History/be14025/ISWO.php
+#	new file:   .vscode-server/data/User/History/be14025/Iym9.php
+#	new file:   .vscode-server/data/User/History/be14025/Jdk3.php
+#	new file:   .vscode-server/data/User/History/be14025/KDHy.php
+#	new file:   .vscode-server/data/User/History/be14025/Kabk.php
+#	new file:   .vscode-server/data/User/History/be14025/MXBk.php
+#	new file:   .vscode-server/data/User/History/be14025/OhG5.php
+#	new file:   .vscode-server/data/User/History/be14025/OpNQ.php
+#	new file:   .vscode-server/data/User/History/be14025/QebS.php
+#	new file:   .vscode-server/data/User/History/be14025/RQAn.php
+#	new file:   .vscode-server/data/User/History/be14025/RpxO.php
+#	new file:   .vscode-server/data/User/History/be14025/SZ6j.php
+#	new file:   .vscode-server/data/User/History/be14025/SclP.php
+#	new file:   .vscode-server/data/User/History/be14025/Sfi0.php
+#	new file:   .vscode-server/data/User/History/be14025/VoHZ.php
+#	new file:   .vscode-server/data/User/History/be14025/WExZ.php
+#	new file:   .vscode-server/data/User/History/be14025/XHbK.php
+#	new file:   .vscode-server/data/User/History/be14025/XwXe.php
+#	new file:   .vscode-server/data/User/History/be14025/ZNjZ.php
+#	new file:   .vscode-server/data/User/History/be14025/bw7C.php
+#	new file:   .vscode-server/data/User/History/be14025/dLic.php
+#	new file:   .vscode-server/data/User/History/be14025/entries.json
+#	new file:   .vscode-server/data/User/History/be14025/f44F.php
+#	new file:   .vscode-server/data/User/History/be14025/f7fy.php
+#	new file:   .vscode-server/data/User/History/be14025/hL0B.php
+#	new file:   .vscode-server/data/User/History/be14025/icxr.php
+#	new file:   .vscode-server/data/User/History/be14025/jfG4.php
+#	new file:   .vscode-server/data/User/History/be14025/mvsb.php
+#	new file:   .vscode-server/data/User/History/be14025/qpFQ.php
+#	new file:   .vscode-server/data/User/History/be14025/vNY1.php
+#	new file:   .vscode-server/data/User/History/be14025/vxhw.php
+#	new file:   .vscode-server/data/User/History/be14025/wPjd.php
+#	new file:   .vscode-server/data/User/History/be14025/x26S.php
+#	new file:   .vscode-server/data/User/History/be14025/xPsh.php
+#	modified:   .vscode-server/data/User/workspaceStorage/0a42fcde4b5af9f4112907c948b9d57e/vscode.lock
+#	new file:   .vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f-1/vscode.lock
+#	new file:   .vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f/vscode.lock
+#	deleted:    .vscode-server/data/clp/3e5f309cded99583ab37e0d647ed0d1b.ko/corrupted.info
+#	new file:   .vscode-server/data/logs/20241123T170957/exthost5/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732364291507.txt
+#	modified:   .vscode-server/data/logs/20241123T170957/exthost5/output_logging_20241123T211810/2-Oracle Developer Tools.log
+#	modified:   .vscode-server/data/logs/20241123T170957/exthost5/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241123T170957/exthost5/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20241123T170957/remoteagent.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost1/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732371619041.txt
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732371630045.txt
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/output_logging_20241123T232029/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/output_logging_20241123T232029/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/output_logging_20241123T232029/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241123T232017/exthost2/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241123T232017/ptyhost.log
+#	new file:   .vscode-server/data/logs/20241123T232017/remoteagent.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732372658621.txt
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/output_logging_20241123T233738/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/output_logging_20241123T233738/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/output_logging_20241123T233738/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241123T233737/exthost1/vscode.github/GitHub.log
+#	new file:   ".vscode-server/data/logs/20241123T233737/exthost1/vscode.json-language-features/JSON \354\226\270\354\226\264 \354\204\234\353\262\204.log"
+#	new file:   .vscode-server/data/logs/20241123T233737/ptyhost.log
+#	new file:   .vscode-server/data/logs/20241123T233737/remoteagent.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732429460130.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/output_logging_20241124T152419/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/output_logging_20241124T152419/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/output_logging_20241124T152419/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost1/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732436106152.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/output_logging_20241124T171505/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/output_logging_20241124T171505/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/output_logging_20241124T171505/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost2/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732436470176.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/output_logging_20241124T172109/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/output_logging_20241124T172109/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/output_logging_20241124T172109/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost3/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732437722243.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/output_logging_20241124T174201/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/output_logging_20241124T174201/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/output_logging_20241124T174201/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost4/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732445690128.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/output_logging_20241124T195449/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/output_logging_20241124T195449/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/output_logging_20241124T195449/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost5/vscode.github/GitHub.log
+#	new file:   ".vscode-server/data/logs/20241124T152418/exthost5/vscode.json-language-features/JSON \354\226\270\354\226\264 \354\204\234\353\262\204.log"
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732450123701.txt
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/output_logging_20241124T210842/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/output_logging_20241124T210842/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/output_logging_20241124T210842/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T152418/exthost6/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T152418/ptyhost.log
+#	new file:   .vscode-server/data/logs/20241124T152418/remoteagent.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/ms-dotnettools.vscode-dotnet-runtime/DotNetAcquisition-ms-dotnettools.vscode-dotnet-runtime-1732454862983.txt
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/output_logging_20241124T222741/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/output_logging_20241124T222741/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/output_logging_20241124T222741/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241124T222723/exthost1/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241124T222723/ptyhost.log
+#	new file:   .vscode-server/data/logs/20241124T222723/remoteagent.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/output_logging_20241125T135505/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/output_logging_20241125T135505/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/output_logging_20241125T135505/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost1/vscode.github/GitHub.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/output_logging_20241125T135804/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/output_logging_20241125T135804/2-Prettier.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/output_logging_20241125T135804/3-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost2/vscode.github/GitHub.log
+#	new file:   ".vscode-server/data/logs/20241125T135500/exthost2/vscode.json-language-features/JSON \354\226\270\354\226\264 \354\204\234\353\262\204.log"
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/Oracle.oracledevtools/OracleVSCodeClient.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/Oracle.oracledevtools/OracleVSCodeServer.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/output_logging_20241125T135832/1-.NET Install Tool.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/output_logging_20241125T135832/2-Oracle Developer Tools.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/output_logging_20241125T135832/3-Prettier.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20241125T135500/exthost3/vscode.github/GitHub.log
+#	new file:   ".vscode-server/data/logs/20241125T135500/exthost3/vscode.json-language-features/JSON \354\226\270\354\226\264 \354\204\234\353\262\204.log"
+#	new file:   .vscode-server/data/logs/20241125T135500/ptyhost.log
+#	new file:   .vscode-server/data/logs/20241125T135500/remoteagent.log
+#	modified:   Donate.php
+#	modified:   FIFAgamepage.php
+#	new file:   add_comment.php
+#	modified:   board.php
+#	modified:   board_write.php
+#	new file:   delete_comment.php
+#	new file:   delete_post.php
+#	new file:   deleteprocess.php
+#	modified:   edit_profile.php
+#	new file:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \352\267\234\354\240\2251.png"
+#	new file:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \353\214\200\354\247\204\355\221\234.png"
+#	new file:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \353\214\200\355\232\214\354\240\225\353\263\264.png"
+#	new file:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \354\203\201\355\222\210.png"
+#	new file:   "img/\355\224\274\355\214\214/\355\224\274\355\214\214 \354\235\274\354\240\225.png"
+#	new file:   "img/\355\231\215\353\263\264/\355\224\274\355\214\214 \355\231\215\353\263\264.png"
+#	modified:   index.php
+#	modified:   mainpage.php
+#	modified:   mypage.php
+#	modified:   participant.php
+#	modified:   participant_process.php
+#	new file:   promotion_add_comment.php
+#	modified:   promotion_board.php
+#	new file:   promotion_delete_comment.php
+#	new file:   promotion_write.php
+#	modified:   save_profile.php
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20241125T135500/exthost2/remoteexthost.log
+#	modified:   .vscode-server/data/logs/20241125T135500/exthost2/vscode.git/Git.log
+#

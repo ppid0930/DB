@@ -1,0 +1,20 @@
+2024-11-25 14:05:15.498 [info] Extension host with pid 137081 started
+2024-11-25 14:05:15.498 [error] Error: EEXIST: file already exists, open '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f/vscode.lock'
+2024-11-25 14:05:15.501 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-25 14:05:15.509 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f/vscode.lock': The lock does not look stale, elapsed: 949 ms, giving up.
+2024-11-25 14:05:15.513 [error] Error: EEXIST: file already exists, open '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f-1/vscode.lock'
+2024-11-25 14:05:15.517 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-25 14:05:15.518 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f-1/vscode.lock': The lock does not look stale, elapsed: 921 ms, giving up.
+2024-11-25 14:05:15.520 [info] Lock '/var/www/html/2_team/2_team2/.vscode-server/data/User/workspaceStorage/5bc055b56f09686021ebb31cab71230f-2/vscode.lock': Lock acquired.
+2024-11-25 14:05:16.011 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-25 14:05:16.014 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-11-25 14:05:16.014 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-25 14:05:16.015 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: '*', root cause: Oracle.oracledevtools
+2024-11-25 14:05:16.296 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2024-11-25 14:05:17.153 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-25 14:05:17.154 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-25 14:05:18.433 [info] Eager extensions activated
+2024-11-25 14:05:18.433 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-25 14:05:18.433 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-25 14:05:18.434 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-25 14:05:18.434 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
