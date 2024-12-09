@@ -1,5 +1,5 @@
-Listening on 127.0.0.1:41121
-looking for token 2196effc-2802-4464-a1f8-9138626a585e, got Some("2196effc-2802-4464-a1f8-9138626a585e")
-[2024-11-25 13:58:17] info Disposed of connection to running server.
-[2024-11-25 13:58:17] info Checking /var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
-[2024-11-25 13:58:17] info Found running server (pid=132752)
+Listening on 127.0.0.1:35659
+[2024-11-26 20:54:15] info Disposed of connection to running server.
+looking for token 05e9c45d-fd72-4ccc-aef9-36801f9df911, got Some("05e9c45d-fd72-4ccc-aef9-36801f9df911")
+[2024-11-26 20:54:15] info Checking /var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /var/www/html/2_team/2_team2/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
+[2024-11-26 20:54:15] info Found running server (pid=235384)
